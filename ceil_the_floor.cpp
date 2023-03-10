@@ -1,18 +1,25 @@
 pair<int, int> getFloorAndCeil(int a[], int n, int x) {
-    // code here
+  
+    //for ceil
+    int d=-1;      
     
-    int d=-1;                                                 //for ceil
-    int f=-1;                                                 // for floor
+    // for floor
+    int f=-1;      
+    
     pair<int,int> p;
     for(int i=0;i<n;i++)
     {
-        if(a[i]==x)                                             //if ith element is equal to given element then floor=ceil=x
+        //if ith element is equal to given element then floor=ceil=x
+        
+        if(a[i]==x)     
         {
             d=f=a[i];
             break;
         }
         
-        else if(a[i]<x && d<a[i])                             //if element is smaller than x and greater than ceil element then ith element become ceil element
+        //if element is smaller than x and greater than ceil element then ith element become ceil element
+        
+        else if(a[i]<x && d<a[i])     
         {
             d=a[i];
         }
