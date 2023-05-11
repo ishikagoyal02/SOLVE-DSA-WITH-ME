@@ -12,7 +12,7 @@ Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. 
 
 <h3> Topics </h3
 
-Our repository covers the following topics:
+Our repository covers the following topics:<br>
   1.Recursion
   
  You can suggest some more topics to be covered
