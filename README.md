@@ -21,7 +21,8 @@ Each topic includes a set of questions to help.
 
   <h2>Recursion</h2>
   
-  1.[Height of Binary Tree](./Recursion/1.md)
+  1. [Height of Binary Tree](./Recursion/1.md)
+  2. [Is Subsequence](./Recursion/2.md)
   
 <h3> CONTACT <h3>
   https://www.linkedin.com/in/ishika-goyal-375112221/
