@@ -25,6 +25,7 @@ Each topic includes a set of questions to help.
    2. [Is Subsequence](./Recursion/2.md)
    3. [Power Of Numbers](./Recursion/3.md)
    4. [Sort Stack](./Recursion/4.md)
+   5. [Reverse Stack](./Recursion/5.md)
   
   <div>
     <h3>You can Connect with me here:</h3>
