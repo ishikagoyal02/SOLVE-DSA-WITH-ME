@@ -7,35 +7,24 @@ using namespace std;
 class Solution {
   public:
   
-    void findCombo(int k,int n,vector<vector<int>>&ans,vector<int>temp,int num){
+    void findCombo(int k,int n,vector<vector<int>>&ans,vector<int>temp,int i){
 
-          if(temp.size()==k){
-
-             if(n==0){
-
-                 ans.push_back(temp);
-
-             }
-
-             return;
-
-          }
-
-         for(int i=num;i<=9;i++){
-
-             temp.push_back(i);
-
-             findCombo(k,n-i,ans,temp,i+1);
-
-             temp.pop_back();
-
-         }
-
- 
-
-      }
-
-public:
+        
+        if(n==0 && k==0)
+            ans.push_back(temp);
+        
+        if(k==0 || i>9 || i>n)
+            return;
+        
+        
+       
+        
+        temp.push_back(i);
+        findCombo(k-1,n-i,ans,temp,i+1);
+        
+        temp.pop_back();
+        findCombo(k,n,ans,temp,i+1);
+    }
 
     vector<vector<int>> combinationSum(int k, int n) {
 
