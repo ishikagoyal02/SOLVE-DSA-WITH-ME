@@ -31,6 +31,8 @@ Each topic includes a set of questions to help.
    7. [Combination Sum2](./Recursion/8.md)
    8. [Combination Sum3](./Recursion/9.md)
    9. [Subset Sum](./Recursion/10.md)
+   10. [Subset Sums2](./Recursion/11.md)
+   11. [Generate all binary strings](./Recursion/12.md)
   
   <div>
     <h3>You can Connect with me here:</h3>
