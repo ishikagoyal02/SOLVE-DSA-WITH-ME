@@ -28,11 +28,12 @@ Each topic includes a set of questions to help.
    5. [Reverse Stack](./Recursion/5.md)
    6. [Merge Sort](./Recursion/6.md)
    7. [Combination Sum](./Recursion/7.md)
-   7. [Combination Sum2](./Recursion/8.md)
-   8. [Combination Sum3](./Recursion/9.md)
-   9. [Subset Sum](./Recursion/10.md)
-   10. [Subset Sums2](./Recursion/11.md)
-   11. [Generate all binary strings](./Recursion/12.md)
+   8. [Combination Sum2](./Recursion/8.md)
+   9. [Combination Sum3](./Recursion/9.md)
+   10. [Subset Sum](./Recursion/10.md)
+   11. [Subset Sums2](./Recursion/11.md)
+   12. [Generate all binary strings](./Recursion/12.md)
+   13. [Generate Parenthesis](./Recursion/13.md)
   
   <div>
     <h3>You can Connect with me here:</h3>
