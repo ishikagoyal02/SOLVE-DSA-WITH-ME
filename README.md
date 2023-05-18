@@ -1,4 +1,8 @@
-# GFG-SOLUTIONS
+<div align="center">
+  <img src="./assets/gfg%20banner.gif" width="600" />
+</div>
+
+<br>
 
 Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. Whether you are preparing for a job or looking to improve your skills or finding solution,our repository provides a solution to questions to help you succedd.
 
