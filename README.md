@@ -35,6 +35,10 @@ Each topic includes a set of questions to help.
    12. [Generate all binary strings](./Recursion/12.md)
    13. [Generate Parenthesis](./Recursion/13.md)
    14. [Permutation with spaces](./Recursion/14.md)
+   15. [Letter Combinations of a Phone number](./Recursion/15.md)
+   16. [Permutation](./Recursion/16.md)
+   17. [Permutation2](./Recursion/17.md)
+   18. [Count Good Numbers](./Recursion/18.md)
   
   <div>
     <h3>You can Connect with me here:</h3>
