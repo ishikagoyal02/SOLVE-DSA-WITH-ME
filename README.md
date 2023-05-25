@@ -48,6 +48,10 @@ Each topic includes a set of questions to help.
 ## Bit Manipulation
 
 1. [Swap Two Numbers](./BitManipulation.md/1.md)
+2. [XOR operation](./BitManipulation.md/2.md)
+3. [GET SET CLEAR](./BitManipulation.md/3.md)
+4. [ODD OR EVEN](./BitManipulation.md/4.md)
+5. [IS A NUMBER POWER OF 2](./BitManipulation.md/5.md)
 
   <div>
     <h3>You can Connect with me here:</h3>
