@@ -47,7 +47,7 @@ Each topic includes a set of questions to help.
   
 ## Bit Manipulation
 
-1. [swap two numbers](./Bit Manipulation/18.md)
+1. [swap two numbers](./Bit Manipulation/1.md)
 
   <div>
     <h3>You can Connect with me here:</h3>
