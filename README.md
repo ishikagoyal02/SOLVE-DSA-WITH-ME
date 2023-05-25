@@ -45,6 +45,10 @@ Each topic includes a set of questions to help.
    17. [Permutation2](./Recursion/17.md)
    18. [Count Good Numbers](./Recursion/18.md)
   
+## Bit Manipulation
+
+1. [Swap Two Numbers](./BitManipulation/1.md)
+
   <div>
     <h3>You can Connect with me here:</h3>
     <a href="https://www.linkedin.com/in/ishika-goyal-375112221/" target="_blank">
