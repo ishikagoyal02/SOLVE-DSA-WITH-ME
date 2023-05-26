@@ -1,0 +1,29 @@
+<h2>COUNT TOTAL SET BIT</h2>  <a href="https://practice.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1"> Practice</a>
+
+```cpp
+ int getlargestpowerof2(int n)
+    {
+        int x=0;
+        while((1<<x)<=n)
+            x++; 
+        return x-1;    
+    }
+    
+    int ans(int n)
+    {
+        if(n==0)
+            return 0;
+        
+        int x=getlargestpowerof2(n);    
+        int left=x*(1<<(x-1));
+        int mid=n-(1<<x)+1;
+        int last=n-(1<<x);
+        
+        int fin= left+mid+ans(last);
+        return fin;
+    }
+ 
+    int countSetBits(int n)
+    {
+        int count=ans(n);
+    }
