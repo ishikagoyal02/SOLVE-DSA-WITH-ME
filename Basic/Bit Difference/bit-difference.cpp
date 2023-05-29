@@ -11,12 +11,20 @@ using namespace std;
 class Solution{
     public:
     // Function to find number of bits needed to be flipped to convert A to B
-    int countBitsFlip(int a, int b){
+    
+    
+    int countBitsFlip(int a, int b)
+    {
+        int s=a^b;
         
-        // Your logic here
-          int s=a^b;
-        return __builtin_popcount(s);
+        int count=0;
+        while(s>0)
+        {
+            s=s&(s-1);
+            count++;
+        }
         
+        return count;
     }
 };
 
