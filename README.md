@@ -54,6 +54,7 @@ Each topic includes a set of questions to help.
 5. [IS A NUMBER POWER OF 2](./BitManipulation.md/5.md)
 6. [Count Total Set Bit](./BitManipulation.md/6.md)
 7. [Set the rightmost unset bit](./BitManipulation.md/7.md)
+8. [Bit Manipulation](./Easy/bit-manipulation.cpp)
 
 
 
