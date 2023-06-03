@@ -49,6 +49,13 @@ Each topic includes a set of questions to help.
 
 1. [Swap Two Numbers](./BitManipulation/1.md)
 
+## Binary Tree
+
+1. [InOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/1.md)<br>
+2. [PreOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/2.md)<br>
+3. [PostOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/3.md)<br>
+4. [Level Order Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/4.md)<br>
+
   <div>
     <h3>You can Connect with me here:</h3>
     <a href="https://www.linkedin.com/in/ishika-goyal-375112221/" target="_blank">
