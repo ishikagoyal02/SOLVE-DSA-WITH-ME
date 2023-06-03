@@ -18,7 +18,9 @@ Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. 
 ### Topics
 
 Our repository covers the following topics:<br>
-  1.Recursion
+ #### 1. Recursion <br>
+ #### 2. Bit Manipulation <br>
+ #### 3. Binary Tree <br>
   
 You can suggest some more topics to be covered
 
