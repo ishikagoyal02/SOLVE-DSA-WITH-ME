@@ -55,6 +55,8 @@ Each topic includes a set of questions to help.
 2. [PreOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/2.md)<br>
 3. [PostOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/3.md)<br>
 4. [Level Order Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/4.md)<br>
+5. [Maximum Height Of Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/5.md)
+6. [Balanced Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/6.md)
 
   <div>
     <h3>You can Connect with me here:</h3>
