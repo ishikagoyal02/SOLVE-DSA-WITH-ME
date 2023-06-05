@@ -27,7 +27,7 @@ You can suggest some more topics to be covered
 Each topic includes a set of questions to help.
 
 ## POTD
-1.[Check If It Is a Straight Line](
+1.[Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md)(5 JUNE LEETCODE)
 
 
   ## Recursion And Backtracking
