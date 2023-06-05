@@ -62,6 +62,7 @@ Each topic includes a set of questions to help.
 7. [Diameter of Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/7.md)
 8. [Maximum Path Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/8.md)
 9. [Same Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/9.md)
+10. [ZigZag Level Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/10.md)
 
   <div>
     <h3>You can Connect with me here:</h3>
