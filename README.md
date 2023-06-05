@@ -26,6 +26,10 @@ You can suggest some more topics to be covered
 
 Each topic includes a set of questions to help.
 
+## POTD
+1.[Check If It Is a Straight Line](
+
+
   ## Recursion And Backtracking
   
    1. [Height of Binary Tree](./Recursion/1.md)
