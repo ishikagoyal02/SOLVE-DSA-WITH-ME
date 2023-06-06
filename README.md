@@ -28,6 +28,7 @@ Each topic includes a set of questions to help.
 
 ## POTD
 1.[Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md)(5 JUNE LEETCODE)
+2.[Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md)
 
 
   ## Recursion And Backtracking
