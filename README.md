@@ -29,7 +29,7 @@ Each topic includes a set of questions to help.
 ## POTD
 1.[Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md)(5 JUNE LEETCODE)<br>
 2.[Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md)(6 JUNE LEETCODE)<br>
-3.[Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md)
+3.[Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md)(7 JUNE LEETCODE)
 
 
   ## Recursion And Backtracking
