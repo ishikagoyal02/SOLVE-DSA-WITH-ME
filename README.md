@@ -32,7 +32,8 @@ Each topic includes a set of questions to help.
 2.[Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md) (6 JUNE LEETCODE)<br>
 3.[Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md) (7 JUNE LEETCODE)<br>
 4.[Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (8 JUNE LEETCODE)<br>
-5.[Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE)
+5.[Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE)<br>
+6.[Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE)
 
 
 
