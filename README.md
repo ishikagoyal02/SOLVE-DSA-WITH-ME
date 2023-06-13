@@ -80,7 +80,7 @@ Each topic includes a set of questions to help.
 
 ## Sliding Window
 
-1.[Maximum Sum of Distinct Subarrays With Length K]
+1.[Maximum Sum of Distinct Subarrays With Length K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/1.md)
 
   <div>
     <h3>You can Connect with me here:</h3>
