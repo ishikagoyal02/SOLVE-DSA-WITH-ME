@@ -18,11 +18,26 @@ Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. 
 ### Topics
 
 Our repository covers the following topics:<br>
-  1.Recursion
+ #### 1. Recursion <br>
+ #### 2. Bit Manipulation <br>
+ #### 3. Binary Tree <br>
+ #### 4. Sliding Window <br>
   
 You can suggest some more topics to be covered
 
 Each topic includes a set of questions to help.
+
+## POTD
+
+1.[Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md) (5 JUNE LEETCODE)<br>
+2.[Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md) (6 JUNE LEETCODE)<br>
+3.[Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md) (7 JUNE LEETCODE)<br>
+4.[Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (8 JUNE LEETCODE)<br>
+5.[Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE)<br>
+6.[Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE)<br>
+7.[Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)
+
+
 
   ## Recursion And Backtracking
   
@@ -48,6 +63,24 @@ Each topic includes a set of questions to help.
 ## Bit Manipulation
 
 1. [Swap Two Numbers](./BitManipulation/1.md)
+
+## Binary Tree
+
+1. [InOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/1.md)<br>
+2. [PreOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/2.md)<br>
+3. [PostOrder Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/3.md)<br>
+4. [Level Order Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/4.md)<br>
+5. [Maximum Height Of Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/5.md)
+6. [Balanced Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/6.md)
+7. [Diameter of Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/7.md)
+8. [Maximum Path Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/8.md)
+9. [Same Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/9.md)
+10. [ZigZag Level Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/10.md)
+
+
+## Sliding Window
+
+1.[Maximum Sum of Distinct Subarrays With Length K]
 
   <div>
     <h3>You can Connect with me here:</h3>
