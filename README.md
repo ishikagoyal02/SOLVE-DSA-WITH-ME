@@ -21,6 +21,7 @@ Our repository covers the following topics:<br>
  #### 1. Recursion <br>
  #### 2. Bit Manipulation <br>
  #### 3. Binary Tree <br>
+ #### 4. Sliding Window <br>
   
 You can suggest some more topics to be covered
 
@@ -75,6 +76,11 @@ Each topic includes a set of questions to help.
 8. [Maximum Path Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/8.md)
 9. [Same Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/9.md)
 10. [ZigZag Level Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/10.md)
+
+
+## Sliding Window
+
+1.[Maximum Sum of Distinct Subarrays With Length K]
 
   <div>
     <h3>You can Connect with me here:</h3>
