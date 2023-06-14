@@ -81,7 +81,8 @@ Each topic includes a set of questions to help.
 
 ## Sliding Window
 
-1.[Maximum Sum of Distinct Subarrays With Length K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/1.md)
+1.[Maximum Sum of Distinct Subarrays With Length K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/1.md)<br>
+2.[First negative integer in every window of size k](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/First%20negative%20integer%20in%20every%20window%20of%20size%20k/first-negative-integer-in-every-window-of-size-k.cpp)
 
   <div>
     <h3>You can Connect with me here:</h3>
