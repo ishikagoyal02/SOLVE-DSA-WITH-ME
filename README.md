@@ -35,7 +35,8 @@ Each topic includes a set of questions to help.
 4.[Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (8 JUNE LEETCODE)<br>
 5.[Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE)<br>
 6.[Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE)<br>
-7.[Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)
+7.[Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)<br>
+8.[Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (14 JUNE LEETCODE)<br>
 
 
 
