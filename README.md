@@ -86,7 +86,9 @@ Each topic includes a set of questions to help.
 2.[First negative integer in every window of size k](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/First%20negative%20integer%20in%20every%20window%20of%20size%20k/first-negative-integer-in-every-window-of-size-k.cpp)<br>
 3.[Find All Anagrams in a String](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/3.md)<br>
 4.[ Sliding Window Maximum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/2.md)<br>
-5.[Subarray Sum Equals K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/4.md)
+5.[Subarray Sum Equals K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/4.md)<br>
+6.[Longest K unique characters substring](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/5.md)<br>
+7.[Longest Substring Without Repeating Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/6.md)<br>
 
 
   <div>
