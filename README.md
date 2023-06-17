@@ -35,7 +35,9 @@ Each topic includes a set of questions to help.
 4.[Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (8 JUNE LEETCODE)<br>
 5.[Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE)<br>
 6.[Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE)<br>
-7.[Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)
+7.[Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)<br>
+8.[Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (14 JUNE LEETCODE)<br>
+9.[Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE)
 
 
 
@@ -80,7 +82,14 @@ Each topic includes a set of questions to help.
 
 ## Sliding Window
 
-1.[Maximum Sum of Distinct Subarrays With Length K]
+1.[Maximum Sum of Distinct Subarrays With Length K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/1.md)<br>
+2.[First negative integer in every window of size k](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/First%20negative%20integer%20in%20every%20window%20of%20size%20k/first-negative-integer-in-every-window-of-size-k.cpp)<br>
+3.[Find All Anagrams in a String](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/3.md)<br>
+4.[ Sliding Window Maximum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/2.md)<br>
+5.[Subarray Sum Equals K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/4.md)<br>
+6.[Longest K unique characters substring](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/5.md)<br>
+7.[Longest Substring Without Repeating Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/6.md)<br>
+
 
   <div>
     <h3>You can Connect with me here:</h3>
