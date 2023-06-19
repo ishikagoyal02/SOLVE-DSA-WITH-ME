@@ -91,6 +91,8 @@ Each topic includes a set of questions to help.
 6.[Longest K unique characters substring](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/5.md)<br>
 7.[Longest Substring Without Repeating Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/6.md)<br>
 8.[Binary Subarrays With Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/7.md)<br>
+9.[Max Consecutive Ones III](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/8.md)<br>
+10.[Number of Substrings Containing All Three Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/9.md)<br>
 
 
   <div>
