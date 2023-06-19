@@ -90,6 +90,7 @@ Each topic includes a set of questions to help.
 5.[Subarray Sum Equals K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/4.md)<br>
 6.[Longest K unique characters substring](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/5.md)<br>
 7.[Longest Substring Without Repeating Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/6.md)<br>
+8.[Binary Subarrays With Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/7.md)<br>
 
 
   <div>
