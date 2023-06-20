@@ -4,7 +4,7 @@
 
 <br>
 
-Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. Whether you are preparing for a job or looking to improve your skills or finding solution,our repository provides a solution to questions to help you succedd.
+Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. Whether you are preparing for a job or looking to improve your skills or find the solution, our repository provides a solution to questions to help you succedd.
 
 
 ### Getting Started
@@ -39,6 +39,7 @@ Each topic includes a set of questions to help.
 8.[Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (14 JUNE LEETCODE)<br>
 9.[Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE)<br>
 10.[Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (19 JUNE LEETCODE)<br>
+11.[K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (20 JUNE LEETCODE)<br>
 
 
 
