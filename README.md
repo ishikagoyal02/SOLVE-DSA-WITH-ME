@@ -40,6 +40,7 @@ Each topic includes a set of questions to help.
 9.[Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE)<br>
 10.[Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (19 JUNE LEETCODE)<br>
 11.[K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (20 JUNE LEETCODE)<br>
+12[Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md)  (21 JUNE GFG)<br>
 
 
 
