@@ -68,6 +68,7 @@ Each topic includes a set of questions to help.
 ## Bit Manipulation
 
 1. [Swap Two Numbers](./BitManipulation/1.md)
+2. [XOR Operation](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/BitManipulation.md/2.md)
 
 ## Binary Tree
 
