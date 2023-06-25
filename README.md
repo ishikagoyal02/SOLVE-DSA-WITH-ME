@@ -98,6 +98,11 @@ Each topic includes a set of questions to help.
 10.[Number of Substrings Containing All Three Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/9.md)<br>
 
 
+## String
+
+1.[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
+
+
   <div>
     <h3>You can Connect with me here:</h3>
     <a href="https://www.linkedin.com/in/ishika-goyal-375112221/" target="_blank">
