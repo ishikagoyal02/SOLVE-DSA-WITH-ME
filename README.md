@@ -103,6 +103,11 @@ Each topic includes a set of questions to help.
 1.[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 
 
+## Heap
+
+1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/)
+
+
   <div>
     <h3>You can Connect with me here:</h3>
     <a href="https://www.linkedin.com/in/ishika-goyal-375112221/" target="_blank">
