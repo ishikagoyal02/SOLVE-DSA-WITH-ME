@@ -4,7 +4,7 @@
 
 <br>
 
-Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. Whether you are preparing for a job or looking to improve your skills or finding solution,our repository provides a solution to questions to help you succedd.
+Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. Whether you are preparing for a job or looking to improve your skills or find the solution, our repository provides a solution to questions to help you succedd.
 
 
 ### Getting Started
@@ -37,7 +37,10 @@ Each topic includes a set of questions to help.
 6.[Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE)<br>
 7.[Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)<br>
 8.[Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (14 JUNE LEETCODE)<br>
-9.[Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE)
+9.[Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE)<br>
+10.[Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (19 JUNE LEETCODE)<br>
+11.[K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (20 JUNE LEETCODE)<br>
+12[Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md)  (21 JUNE GFG)<br>
 
 
 
@@ -65,6 +68,7 @@ Each topic includes a set of questions to help.
 ## Bit Manipulation
 
 1. [Swap Two Numbers](./BitManipulation/1.md)
+2. [XOR Operation](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/BitManipulation.md/2.md)
 
 ## Binary Tree
 
@@ -89,6 +93,19 @@ Each topic includes a set of questions to help.
 5.[Subarray Sum Equals K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/4.md)<br>
 6.[Longest K unique characters substring](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/5.md)<br>
 7.[Longest Substring Without Repeating Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/6.md)<br>
+8.[Binary Subarrays With Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/7.md)<br>
+9.[Max Consecutive Ones III](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/8.md)<br>
+10.[Number of Substrings Containing All Three Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/9.md)<br>
+
+
+## String
+
+1.[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
+
+
+## Heap
+
+1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/)
 
 
   <div>
