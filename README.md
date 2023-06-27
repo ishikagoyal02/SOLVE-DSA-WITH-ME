@@ -105,7 +105,7 @@ Each topic includes a set of questions to help.
 
 ## Heap
 
-1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/)
+1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/) <br>
 2.[Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md)
 
 
