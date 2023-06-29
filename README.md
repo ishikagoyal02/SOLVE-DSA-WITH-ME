@@ -4,7 +4,7 @@
 
 <br>
 
-Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. Whether you are preparing for a job or looking to improve your skills or find the solution, our repository provides a solution to questions to help you succedd.
+Welcome to GFG-SOLUTION, a repository covering DSA questions help you to learn. Whether you are preparing for a job or looking to improve your skills or find the solution, our repository provides a solution to questions to help you succeed.
 
 
 ### Getting Started
@@ -106,7 +106,9 @@ Each topic includes a set of questions to help.
 ## Heap
 
 1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/) <br>
-2.[Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md)
+2.[Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md) <br>
+3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md)
+
 
 
   <div>
