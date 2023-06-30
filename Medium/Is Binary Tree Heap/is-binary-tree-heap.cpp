@@ -95,31 +95,31 @@ class Solution {
   
   
   
-  bool sol(struct Node* tree,int lcount,int rcount)
-  {
-      bool l=true,r=true;
+//   bool sol(struct Node* tree,int lcount,int rcount)
+//   {
+//       bool l=true,r=true;
         
-        if(tree==NULL)
-            return true;
+//         if(tree==NULL)
+//             return true;
         
-        if(tree->left!=NULL)
-            if(tree->data >= tree->left->data)
-                 l=sol(tree->left,lcount+1,rcount+1);
-            else
-                return false;
+//         if(tree->left!=NULL)
+//             if(tree->data >= tree->left->data)
+//                  l=sol(tree->left,lcount+1,rcount+1);
+//             else
+//                 return false;
         
-        if(tree->right!=NULL)
-            if(tree->data >= tree->right->data)
-                 r=sol(tree->right,lcount+1,rcount+1);
-            else
-                return false;
+//         if(tree->right!=NULL)
+//             if(tree->data >= tree->right->data)
+//                  r=sol(tree->right,lcount+1,rcount+1);
+//             else
+//                 return false;
         
     
-        if((l==false || r==false) && (lcount==rcount))
-            return false;
-        return true;    
+//         if((l==false || r==false) && (lcount==rcount))
+//             return false;
+//         return true;    
         
-  }
+//   }
   
   int nodeCount(struct Node* tree)
   {
@@ -149,6 +149,26 @@ class Solution {
       }
   }
   
+  bool isMax(struct Node* tree)
+  {
+      if(tree->left ==NULL && tree->right==NULL)
+        return true;
+        
+    if(tree->right== NULL)
+        return (tree->data >= tree->left->data);
+    
+    else
+    {
+        bool l=isMax(tree->left);
+        bool r= isMax(tree->right);
+        
+        if(l && r && tree->data >= tree->left->data && tree->data >= tree->right->data )
+            return true; 
+        return false;    
+             
+    }
+  }
+  
     bool isHeap(struct Node* tree) {
         // code here
         
@@ -156,7 +176,7 @@ class Solution {
          int rcount=0;
          int tCount =nodeCount(tree); 
         
-        return isCBT(tree,0,tCount) && sol(tree,lcount,rcount);
+        return isCBT(tree,0,tCount) && isMax(tree);
         
     }
 };
