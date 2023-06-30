@@ -107,7 +107,9 @@ Each topic includes a set of questions to help.
 
 1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/) <br>
 2.[Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md) <br>
-3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md)
+3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md) <br>
+4.[Is Binary Tree Heap?](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/3.md) <br>
+5.[](
 
 
 
