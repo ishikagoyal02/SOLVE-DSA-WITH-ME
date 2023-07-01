@@ -43,6 +43,10 @@ Each topic includes a set of questions to help.
 12[Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md)  (21 JUNE GFG)<br>
 
 
+  ## ARRAY
+
+  1. [Plus One](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/array/1.md)<br>
+
 
   ## Recursion And Backtracking
   
