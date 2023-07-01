@@ -114,6 +114,7 @@ Each topic includes a set of questions to help.
 3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md) <br>
 4.[Is Binary Tree Heap?](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/3.md) <br>
 5.[Merge two binary Max heaps](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/4.md) <br>
+6 [Minimum Cost Of ropes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/Minimum%20Cost%20of%20ropes/minimum-cost-of-ropes.cpp)<br>
 
 
 
