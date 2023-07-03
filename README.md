@@ -46,6 +46,7 @@ Each topic includes a set of questions to help.
   ## ARRAY
 
   1. [Plus One](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/array/1.md)<br>
+  2. [Set Matrix Zeroes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/5.md)<br>
 
 
   ## Recursion And Backtracking
