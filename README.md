@@ -45,6 +45,7 @@ Each topic includes a set of questions to help.
 10.[Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (19 JUNE LEETCODE)<br>
 11.[K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (20 JUNE LEETCODE)<br>
 12[Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md)  (21 JUNE GFG)<br>
+13.[Single Number 2](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/583c273e07e3039e487a79ab3af7232ba9581830/Medium/9.md)(4 JULY LEETCODE)<br>
 
 
   ## ARRAY
