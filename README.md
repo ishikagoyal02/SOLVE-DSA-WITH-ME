@@ -21,34 +21,53 @@ In this repository, you will find a variety of DSA questions that I have solved.
 
 The repository covers a wide range of DSA topics, including but not limited to:
 
- #### 1. [Array](#array)<br>
- #### 2. String <br>
- #### 3. Recursion <br>
- #### 4. Bit Manipulation <br>
- #### 5. Binary Tree <br>
- #### 6. Sliding Window <br>
- #### 7. Heap <br>
- 
+1. [Array](#array)
+2. [String](#string)
+3. [Recursion and Backtracking](#recursion-and-backtracking)
+4. [Bit Manipulation](#bit-manipulation)
+5. [Binary Tree](#binary-tree)
+6. [Sliding Window](#sliding-window)
+7. [Heap](#heap)
+   
   Feel free to explore the repository and delve into the topics that interest you the most.
 
 
-## POTD
+# Daily DSA Practice
 
-1.[Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md) (5 JUNE LEETCODE)<br>
-2.[Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md) (6 JUNE LEETCODE)<br>
-3.[Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md) (7 JUNE LEETCODE)<br>
-4.[Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (8 JUNE LEETCODE)<br>
-5.[Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE)<br>
-6.[Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE)<br>
-7.[Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)<br>
-8.[Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (14 JUNE LEETCODE)<br>
-9.[Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE)<br>
-10.[Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (19 JUNE LEETCODE)<br>
-11.[K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (20 JUNE LEETCODE)<br>
-12[Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md)  (21 JUNE GFG)<br>
-13.[Single Number 2](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/583c273e07e3039e487a79ab3af7232ba9581830/Medium/9.md)(4 JULY LEETCODE)<br>
-14.[Longest Subarray of 1's After Deleting One Element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/10.md)(5 JULY LEETCODE)<br>
-15.[Minimum Size Subarray Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/11.md)(6 JULY LEETCODE)<br>
+Welcome to my Daily DSA Practice repository! In this repository, I share my daily solved Data Structure and Algorithm (DSA) questions. Each day, I solve a new problem to improve my problem-solving skills and deepen my understanding of different algorithms and data structures.
+
+## Table of Contents
+
+- [About](#about)
+- [POTD (Problem of the Day)](#potd-problem-of-the-day)
+- [Contributing](#contributing)
+- [Resources](#resources)
+
+## About
+
+This repository contains a collection of DSA questions that I solve daily. Each question is organized in a separate folder, which includes the problem statement, my solution(s), and any additional resources used for reference or learning.
+
+## POTD (Problem of the Day)
+
+Here is a list of daily solved DSA questions:
+
+1. [Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md) (5 JUNE LEETCODE)
+2. [Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md) (6 JUNE LEETCODE)
+3. [Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md) (7 JUNE LEETCODE)
+4. [Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (8 JUNE LEETCODE)
+5. [Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE)
+6. [Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE)
+7. [Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE)
+8. [Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (14 JUNE LEETCODE)
+9. [Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE)
+10. [Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (19 JUNE LEETCODE)
+11. [K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (20 JUNE LEETCODE)
+12. [Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md) (21 JUNE GFG)
+13. [Single Number 2](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/583c273e07e3039e487a79ab3af7232ba9581830/Medium/9.md) (4 JULY LEETCODE)
+14. [Longest Subarray of 1's After Deleting One Element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/10.md) (5 JULY LEETCODE)
+15. [Minimum Size Subarray Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/11.md) (6 JULY LEETCODE)
+
+Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
 
   ## ARRAY
