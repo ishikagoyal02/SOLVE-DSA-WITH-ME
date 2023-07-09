@@ -75,6 +75,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
   1. [Plus One](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/array/1.md)<br>
   2. [Set Matrix Zeroes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/5.md)<br>
+  3. [Contains Duplicates](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/2.md)
 
 
   ## Recursion And Backtracking
