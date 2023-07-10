@@ -67,6 +67,7 @@ Here is a list of daily solved DSA questions:
 14. [Longest Subarray of 1's After Deleting One Element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/10.md) (5 JULY LEETCODE)
 15. [Minimum Size Subarray Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/11.md) (6 JULY LEETCODE)
 16. [Maximize the Confusion of an Exam](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/12.md) (7 JULY LEETCODE)
+17. [Minimum Depth of Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/8.md) (10 JULY LEETCODE)
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
