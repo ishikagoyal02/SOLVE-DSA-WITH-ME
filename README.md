@@ -79,6 +79,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   3. [Contains Duplicates](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/2.md)
   4. [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/992801160/)
   5. [ Remove Duplicates from Sorted Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/3.md)
+  6. [Remove Element](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/4.md)
 
 
   ## Recursion And Backtracking
