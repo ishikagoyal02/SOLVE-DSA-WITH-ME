@@ -152,6 +152,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 7.[BST to max heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/6.md) (USE INORDER AND POSTORDER TRAVERSAL)<br>
 8.[Does array represent Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Basic/Does%20array%20represent%20Heap/does-array-represent-heap.cpp)
 9.[Convert Min heap into max Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/7.md)
+10[Sort a array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Heap/8.md)
 
 
 ## Contributing
