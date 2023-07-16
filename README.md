@@ -80,6 +80,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   4. [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/submissions/992801160/)
   5. [ Remove Duplicates from Sorted Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/3.md)
   6. [Remove Element](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/4.md)
+  7. [Sum of Squares of Special Elements](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/5.md) (16 july contest)
 
 
   ## Recursion And Backtracking
