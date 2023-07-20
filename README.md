@@ -83,6 +83,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   6. [Remove Element](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/4.md)
   7. [Sum of Squares of Special Elements](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/5.md) (16 july contest)
   8. [Majority Element](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/6.md)
+  9. [Majority Element 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/7.md)
 
 
   ## Recursion And Backtracking
