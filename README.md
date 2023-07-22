@@ -28,6 +28,7 @@ The repository covers a wide range of DSA topics, including but not limited to:
 5. [Binary Tree](#binary-tree)
 6. [Sliding Window](#sliding-window)
 7. [Heap](#heap)
+8. [Greedy Algorithm](#Greedy)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -158,6 +159,10 @@ Feel free to explore the repository and review the solutions to each POTD questi
 9.[Convert Min heap into max Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/7.md)
 10[Sort a array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Heap/8.md)
 
+
+## Greedy
+
+1.[N meetings in a room](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Greedy%20Algorithm/1.md)
 
 ## Contributing
 
