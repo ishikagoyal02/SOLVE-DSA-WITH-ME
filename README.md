@@ -165,6 +165,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 1.[N meetings in a room](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Greedy%20Algorithm/1.md)
 2.[Shop in Candy Store](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/2.md)
 3.[Check if it is possible to survive on Island](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/3.md) TRICKY
+4.[Chocolate Distribution Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/4.md)
 
 ## Contributing
 
