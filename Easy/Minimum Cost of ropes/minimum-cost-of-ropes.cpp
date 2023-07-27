@@ -11,30 +11,25 @@ class Solution
     long long minCost(long long arr[], long long n) {
         // Your code here
         
-        priority_queue<long long,vector<long long>,greater<long long>>p;
-        long long ans=0;
-        long long sum=0;
-        
+        priority_queue<long long,vector<long long>,greater<long long>> q;
         for(int i=0;i<n;i++)
-            p.push(arr[i]);
+            q.push(arr[i]);
         
-        int i=0;    
-        while(!p.empty())
+        long long ans=0;
+                long long temp=0;
+        
+        while(q.size()>1)
         {
-            i++;
-            ans +=p.top();
-            p.pop();
+            long long a=q.top();
+            q.pop();
+            long long b=q.top();
+            q.pop();
             
-            if(i==2)
-            {
-                p.push(ans);
-                sum +=ans;
-                i=0;
-               // cout<<"sum: "<<sum<<endl;
-                ans=0;
-            }    
+            ans = a+b;
+            temp+=ans;
+            q.push(a+b);
         }
-        return sum;
+        return temp;
     }
 };
 
