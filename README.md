@@ -154,7 +154,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md) <br>
 4.[Is Binary Tree Heap?](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/3.md) <br>
 5.[Merge two binary Max heaps](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/4.md) <br>
-6 [Minimum Cost Of ropes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/Minimum%20Cost%20of%20ropes/minimum-cost-of-ropes.cpp)<br>
+6 [Minimum Cost Of ropes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/9.md)<br>
 7.[BST to max heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/6.md) (USE INORDER AND POSTORDER TRAVERSAL)<br>
 8.[Does array represent Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Basic/Does%20array%20represent%20Heap/does-array-represent-heap.cpp)
 9.[Convert Min heap into max Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/7.md)
