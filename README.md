@@ -144,7 +144,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 ## String
 
 1.[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
-2.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md) (String sep by ".")
+2.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md) (String separated by ".")
+3.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/3.md) (String separated by " ")
+
 
 
 ## Heap
@@ -169,6 +171,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 4.[Chocolate Distribution Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/4.md)
 5[Assign Cookies](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/5.md)
 6[Fractional Knapsack](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/6.md)
+7[Lemonade Change](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/7.md)
 
 ## Contributing
 
