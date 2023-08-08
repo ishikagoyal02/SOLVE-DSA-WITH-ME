@@ -29,7 +29,7 @@ The repository covers a wide range of DSA topics, including but not limited to:
 6. [Sliding Window](#sliding-window)
 7. [Heap](#heap)
 8. [Greedy Algorithm](#Greedy)
-9. [Dynamic Programming](#Dynamic Programmin)
+9. [Dynamic Programming](#Dynamic-Programming)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -145,7 +145,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 ## String
 
 1.[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
+
 2.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md) (String separated by ".")
+
 3.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/3.md) (String separated by " ")
 
 
@@ -153,31 +155,48 @@ Feel free to explore the repository and review the solutions to each POTD questi
 ## Heap
 
 1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/) <br>
-2.[Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md) <br>
-3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md) <br>
-4.[Is Binary Tree Heap?](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/3.md) <br>
-5.[Merge two binary Max heaps](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/4.md) <br>
-6 [Minimum Cost Of ropes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/9.md)<br>
-7.[BST to max heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/6.md) (USE INORDER AND POSTORDER TRAVERSAL)<br>
+2.[Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md)
+
+3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md)
+
+4.[Is Binary Tree Heap?](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/3.md)
+
+5.[Merge two binary Max heaps](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/4.md)
+
+6 [Minimum Cost Of ropes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/9.md)
+
+7.[BST to max heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/6.md) (USE INORDER AND POSTORDER TRAVERSAL)
+
 8.[Does array represent Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Basic/Does%20array%20represent%20Heap/does-array-represent-heap.cpp)
+
 9.[Convert Min heap into max Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/7.md)
+
 10[Sort a array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Heap/8.md)
+
 
 
 ## Greedy
 
 1.[N meetings in a room](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Greedy%20Algorithm/1.md)
+
 2.[Shop in Candy Store](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/2.md)
+
 3.[Check if it is possible to survive on Island](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/3.md) TRICKY
+
 4.[Chocolate Distribution Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/4.md)
+
 5[Assign Cookies](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/5.md)
+
 6[Fractional Knapsack](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/6.md)
+
 7[Lemonade Change](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/7.md)
+
 
 ## Dynamic Programming
 
 1.[Fibonacci Series](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/1.md)
-2.[Climbing Stairs]((https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md))
+
+2.[Climbing Stairs](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md)
 
 
 ## Contributing
