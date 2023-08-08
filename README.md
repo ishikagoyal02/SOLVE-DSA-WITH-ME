@@ -198,6 +198,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 2.[Climbing Stairs](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md)
 
+3.[Frog Jump](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/3.md)
+
 
 ## Contributing
 
