@@ -29,6 +29,7 @@ The repository covers a wide range of DSA topics, including but not limited to:
 6. [Sliding Window](#sliding-window)
 7. [Heap](#heap)
 8. [Greedy Algorithm](#Greedy)
+9. [Dynamic Programming](#Dynamic Programmin)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -172,6 +173,12 @@ Feel free to explore the repository and review the solutions to each POTD questi
 5[Assign Cookies](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/5.md)
 6[Fractional Knapsack](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/6.md)
 7[Lemonade Change](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/7.md)
+
+## Dynamic Programming
+
+1.[Fibonacci Series](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/1.md)
+2.[Climbing Stairs]((https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md))
+
 
 ## Contributing
 
