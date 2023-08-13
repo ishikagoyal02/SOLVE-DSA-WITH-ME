@@ -156,9 +156,11 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 1.[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 
-2.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md) (String separated by ".")
+2.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/4.md) (String separated by ".")
 
 3.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/3.md) (String separated by " ")
+
+4.[Anagram]((https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md)
 
 
 
