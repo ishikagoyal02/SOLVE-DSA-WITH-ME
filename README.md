@@ -160,7 +160,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 3.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/3.md) (String separated by " ")
 
-4.[Anagram]((https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md)
+4.[Anagram](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md)
+
+5[Non Repeating Character](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/5.md)
 
 
 
