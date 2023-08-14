@@ -150,6 +150,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 10.[Number of Substrings Containing All Three Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/9.md)
 
+11.[Subarray with given sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/10.md) (1st subarray)
+
 
 
 ## String
