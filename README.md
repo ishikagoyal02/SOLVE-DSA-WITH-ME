@@ -79,6 +79,8 @@ Here is a list of daily solved DSA questions:
 21. [Make Beautiful Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/1.md) (22 Aug GFG)
 22. [Excel Sheet Column Title](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/3.md)  (22 Aug Leetcode)
 
+23.[Maximum Length Of Pair Chain](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/14.md)  (26 Aug LEETCODE)
+
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
 
