@@ -80,6 +80,7 @@ Here is a list of daily solved DSA questions:
 22. [Excel Sheet Column Title](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/3.md)  (22 Aug Leetcode)
 
 23.[Maximum Length Of Pair Chain](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/14.md)  (26 Aug LEETCODE)
+24.[Longest k unique characters substring](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Sliding%20Window/5.md) (26 Aug GFG)
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
