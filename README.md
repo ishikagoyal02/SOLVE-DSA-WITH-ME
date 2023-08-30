@@ -82,6 +82,8 @@ Here is a list of daily solved DSA questions:
 23.[Maximum Length Of Pair Chain](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/14.md)  (26 Aug LEETCODE)
 24.[Longest k unique characters substring](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Sliding%20Window/5.md) (26 Aug GFG)
 
+25[Delete a Node in Single Linked List](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/9.md)  (30 Aug GFG)
+
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
 
