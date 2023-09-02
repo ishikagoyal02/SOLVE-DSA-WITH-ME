@@ -84,6 +84,8 @@ Here is a list of daily solved DSA questions:
 
 25[Delete a Node in Single Linked List](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/9.md)  (30 Aug GFG)
 
+26[Leaf under budget](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/10.md)  (2 Sept GFG)
+
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
 
