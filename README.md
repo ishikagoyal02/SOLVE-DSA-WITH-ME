@@ -88,6 +88,8 @@ Here is a list of daily solved DSA questions:
 
 27[Linked List Cycle](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/11.md)  (2 sept Leetcode)
 
+28[Minimum Deletion to make Character Frequencies Unique](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/15.md) (12 Sept LeetCode)
+
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
 
