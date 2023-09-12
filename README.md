@@ -127,9 +127,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
   
 ## Bit Manipulation
 
-1. [Swap Two Numbers](./BitManipulation/1.md)
+1. [Swap Two Numbers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation.md/1.md)
 2. [XOR Operation](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/BitManipulation.md/2.md)
-3. [Check whether K-th bit is set or not](./BitManipulation/3.md)
+3. [Check whether K-th bit is set or not](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation.md/3.md)
 
 ## Binary Tree
 
