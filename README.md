@@ -91,6 +91,8 @@ Here is a list of daily solved DSA questions:
 28[Minimum Deletion to make Character Frequencies Unique](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/15.md) (12 Sept LeetCode medium)
 29[Perfect Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/12.md) (12 Sept GFG easy)
 
+30[Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (12 Sept LeetCode medium)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
