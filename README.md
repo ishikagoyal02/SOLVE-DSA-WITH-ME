@@ -93,7 +93,8 @@ Here is a list of daily solved DSA questions:
 
 30[Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (12 Sept LeetCode medium)
 
-31[The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (13 Sept Leetcode easy)
+31[The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
+32[Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) ( 18 Sept GFG Basic)
 
 
 
