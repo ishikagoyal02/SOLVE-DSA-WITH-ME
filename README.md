@@ -193,6 +193,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 5[Non Repeating Character](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/5.md)
 
+6.[Remaining String](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/6.md)
+
 
 
 ## Heap
