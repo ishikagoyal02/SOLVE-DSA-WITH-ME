@@ -93,6 +93,9 @@ Here is a list of daily solved DSA questions:
 
 30[Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (12 Sept LeetCode medium)
 
+31[The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (13 Sept Leetcode easy)
+
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
