@@ -96,6 +96,8 @@ Here is a list of daily solved DSA questions:
 31[The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
 32[Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) ( 18 Sept GFG Basic)
 
+33[Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
