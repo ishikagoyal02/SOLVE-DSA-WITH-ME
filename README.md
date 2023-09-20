@@ -91,12 +91,13 @@ Here is a list of daily solved DSA questions:
 28[Minimum Deletion to make Character Frequencies Unique](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/15.md) (12 Sept LeetCode medium)
 29[Perfect Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/12.md) (12 Sept GFG easy)
 
-30[Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (12 Sept LeetCode medium)
+30[Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/16.md) (12 Sept LeetCode medium)
 
 31[The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
 32[Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) ( 18 Sept GFG Basic)
 
 33[Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
+34[Find the Duplicate](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (19 Sept LeetCode medium)
 
 
 
