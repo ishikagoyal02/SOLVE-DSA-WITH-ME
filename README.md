@@ -98,7 +98,8 @@ Here is a list of daily solved DSA questions:
 27  [Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
     [Find the Duplicate](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (19 Sept LeetCode medium)
 
-28[Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
+28 [Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
+   [Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md) (20Sept LeetCode medium)
 
 
 
@@ -182,6 +183,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 10.[Number of Substrings Containing All Three Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/9.md)
 
 11.[Subarray with given sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/10.md) (1st subarray)
+
+12.[Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md)
 
 
 
