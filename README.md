@@ -74,30 +74,32 @@ Here is a list of daily solved DSA questions:
     
 
 19. [Srrounds of 1's](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/1.md) (21 August GFG basic)
-20. [Repeated Substring Pattern](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/2.md) (21 LeetCode basic)
+[Repeated Substring Pattern](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/2.md) (21 LeetCode basic)
 
-21. [Make Beautiful Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/1.md) (22 Aug GFG medium)
-22. [Excel Sheet Column Title](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/3.md)  (22 Aug Leetcode basic)
+20. [Make Beautiful Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/1.md) (22 Aug GFG medium)
+    [Excel Sheet Column Title](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/3.md)  (22 Aug Leetcode basic)
 
-23.[Maximum Length Of Pair Chain](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/14.md)  (26 Aug LEETCODE medium)
-24.[Longest k unique characters substring](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Sliding%20Window/5.md) (26 Aug GFG medium)
+21.[Maximum Length Of Pair Chain](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/14.md)  (26 Aug LEETCODE medium)
+[Longest k unique characters substring](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Sliding%20Window/5.md) (26 Aug GFG medium)
 
-25[Delete a Node in Single Linked List](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/9.md)  (30 Aug GFG easy)
+22[Delete a Node in Single Linked List](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/9.md)  (30 Aug GFG easy)
 
-26[Leaf under budget](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/10.md)  (2 Sept GFG easy)
+23[Leaf under budget](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/10.md)  (2 Sept GFG easy)
 
-27[Linked List Cycle](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/11.md)  (2 sept Leetcode easy)
+[Linked List Cycle](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/11.md)  (2 sept Leetcode easy)
 
-28[Minimum Deletion to make Character Frequencies Unique](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/15.md) (12 Sept LeetCode medium)
-29[Perfect Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/12.md) (12 Sept GFG easy)
+24[Minimum Deletion to make Character Frequencies Unique](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/15.md) (12 Sept LeetCode medium)
+[Perfect Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/12.md) (12 Sept GFG easy)
 
-30[Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/16.md) (12 Sept LeetCode medium)
+25[Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/16.md) (12 Sept LeetCode medium)
 
-31[The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
-32[Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) ( 18 Sept GFG Basic)
+26[The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
+[Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) ( 18 Sept GFG Basic)
 
-33[Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
-34[Find the Duplicate](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (19 Sept LeetCode medium)
+27[Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
+[Find the Duplicate](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (19 Sept LeetCode medium)
+
+28[Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
 
 
 
