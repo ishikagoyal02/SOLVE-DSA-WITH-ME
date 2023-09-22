@@ -101,6 +101,8 @@ Here is a list of daily solved DSA questions:
 28 [Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
    [Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md) (20Sept LeetCode medium)
 
+29[First and Last Occurence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) (22Sept GFG  medium)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
