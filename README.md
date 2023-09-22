@@ -30,6 +30,7 @@ The repository covers a wide range of DSA topics, including but not limited to:
 7. [Heap](#heap)
 8. [Greedy Algorithm](#Greedy)
 9. [Dynamic Programming](#Dynamic-Programming)
+10. [Binary Search](#Binary-Search)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -101,7 +102,7 @@ Here is a list of daily solved DSA questions:
 28 [Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
    [Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md) (20Sept LeetCode medium)
 
-29[First and Last Occurence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) (22Sept GFG  medium)
+29 [First and Last Occurence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) (22Sept GFG  medium)
 
 
 
@@ -253,6 +254,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 2.[Climbing Stairs](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md)
 
 3.[Frog Jump](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/3.md)
+
+## Binary Search
+1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) 
 
 
 ## Contributing
