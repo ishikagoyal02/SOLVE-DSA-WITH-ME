@@ -93,18 +93,20 @@ Here is a list of daily solved DSA questions:
 
 25  [Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/16.md) (12 Sept LeetCode medium)
 
-26  [The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
+26. [Print First n Fibonacci Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/5.md) (17Sept GFG basic)
+
+27  [The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
     [Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) ( 18 Sept GFG Basic)
 
-27  [Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
+28  [Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
     [Find the Duplicate](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (19 Sept LeetCode medium)
 
-28 [Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
+29 [Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
    [Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md) (20Sept LeetCode medium)
 
-29 [First and Last Occurence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) (22Sept GFG  medium)
+30 [First and Last Occurence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) (22Sept GFG  medium)
 
-30 .[Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp)  (23Sept GFG Easy)
+31 .[Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp)  (23Sept GFG Easy)
 
 
 
@@ -123,6 +125,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   8. [Majority Element](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/6.md)
   9. [Majority Element 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/7.md)
   10. [Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp)
+  11. [Print First n Fibonacci Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/5.md)
 
 
   ## Recursion And Backtracking
