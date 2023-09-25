@@ -108,7 +108,8 @@ Here is a list of daily solved DSA questions:
 
 31 .[Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp)  (23Sept GFG Easy)
 
-32 [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md) (25th Leetcode Easy)
+32 [Maximum Sum Combination](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/21.md) (25Sept GFG Medium) 
+   [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md) (25th Leetcode Easy)
 
 
 
