@@ -108,6 +108,8 @@ Here is a list of daily solved DSA questions:
 
 31 .[Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp)  (23Sept GFG Easy)
 
+32 [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md) (25th Leetcode Easy)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -207,9 +209,11 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 4.[Anagram](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md)
 
-5[Non Repeating Character](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/5.md)
+5 [Non Repeating Character](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/5.md)
 
-6.[Remaining String](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/6.md)
+6. [Remaining String](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/6.md)
+
+7 [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md)
 
 
 
