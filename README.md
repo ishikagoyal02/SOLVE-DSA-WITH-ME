@@ -28,9 +28,9 @@ The repository covers a wide range of DSA topics, including but not limited to:
 5. [Binary Tree](#binary-tree)
 6. [Sliding Window](#sliding-window)
 7. [Heap](#heap)
-8. [Greedy Algorithm](#Greedy)
-9. [Dynamic Programming](#Dynamic-Programming)
-10. [Binary Search](#Binary-Search)
+8. [Greedy Algorithm](#greedy)
+9. [Dynamic Programming](#dynamic-programming)
+10. [Binary Search](#binary-search)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -54,64 +54,117 @@ This repository contains a collection of DSA questions that I solve daily. Each 
 
 Here is a list of daily solved DSA questions:
 
-1. [Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md) (5 JUNE LEETCODE easy)
-2. [Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md) (6 JUNE LEETCODE easy)
-3. [Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md) (7 JUNE LEETCODE medium)
-4. [Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (8 JUNE LEETCODE easy)
-5. [Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (9 JUNE LEETCODE easy)
-6. [Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (12 JUNE LEETCODE easy)
-7. [Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (13 JUNE LEETCODE medium)
-8. [Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (14 JUNE LEETCODE easy)
-9. [Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (15 JUNE LEETCODE medium)
-10. [Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (19 JUNE LEETCODE easy)
-11. [K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (20 JUNE LEETCODE medium)
-12. [Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md) (21 JUNE GFG medium)
-13. [Single Number 2](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/583c273e07e3039e487a79ab3af7232ba9581830/Medium/9.md) (4 JULY LEETCODE medium)
-14. [Longest Subarray of 1's After Deleting One Element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/10.md) (5 JULY LEETCODE medium)
-15. [Minimum Size Subarray Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/11.md) (6 JULY LEETCODE medium)
-16. [Maximize the Confusion of an Exam](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/12.md) (7 JULY LEETCODE medium)
-17. [Minimum Depth of Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/8.md) (10 JULY LEETCODE easy)
-18. [Add Two Numbers II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/13.md) (17 JULY LEETCODE medium)
-    
 
-19. [Srrounds of 1's](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/1.md) (21 August GFG basic)
-[Repeated Substring Pattern](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/2.md) (21 LeetCode basic)
+Day 1 (5 JUNE):
+- [Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md) (LEETCODE easy)
 
-20. [Make Beautiful Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/1.md) (22 Aug GFG medium)
-    [Excel Sheet Column Title](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/3.md)  (22 Aug Leetcode basic)
+Day 2 (6 JUNE):
+- [Can Make Arithmetic Progression From Sequence](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/2.md) (LEETCODE easy)
 
-21. [Maximum Length Of Pair Chain](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/14.md)  (26 Aug LEETCODE medium) 
-    [Longest k unique characters substring](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Sliding%20Window/5.md) (26 Aug GFG medium)
+Day 3 (7 JUNE):
+- [Minimum Flips to Make a OR b Equal to c](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/3.md) (LEETCODE medium)
 
-22  [Delete a Node in Single Linked List](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/9.md)  (30 Aug GFG easy)
+Day 4 (8 JUNE):
+- [Count Negative Numbers in a Sorted Matrix](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/3.md) (LEETCODE easy)
 
-23  [Leaf under budget](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/10.md)  (2 Sept GFG easy)
-    [Linked List Cycle](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/11.md)  (2 sept Leetcode easy)
+Day 5 (9 JUNE):
+- [Find Smallest Letter Greater Than Target](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/4.md) (LEETCODE easy)
 
-24  [Minimum Deletion to make Character Frequencies Unique](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/15.md) (12 Sept LeetCode medium)
-    [Perfect Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/12.md) (12 Sept GFG easy)
+Day 6 (12 JUNE):
+- [Summary Ranges](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/5.md) (LEETCODE easy)
 
-25  [Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/16.md) (12 Sept LeetCode medium)
+Day 7 (13 JUNE):
+- [Equal Row and Column Pairs](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/5.md) (LEETCODE medium)
 
-26. [Print First n Fibonacci Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/5.md) (17Sept GFG basic)
+Day 8 (14 JUNE):
+- [Minimum Absolute Difference in BST](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/6.md) (LEETCODE easy)
 
-27  [The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (18 Sept Leetcode easy)
-    [Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) ( 18 Sept GFG Basic)
+Day 9 (15 JUNE):
+- [Maximum Level Sum of a Binary Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/6.md) (LEETCODE medium)
 
-28  [Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (19 Sept GFG easy)
-    [Find the Duplicate](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (19 Sept LeetCode medium)
+Day 10 (19 JUNE):
+- [Find The Highest Altitude](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/7.md) (LEETCODE easy)
 
-29 [Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (20Sept GFG)
-   [Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md) (20Sept LeetCode medium)
+Day 11 (20 JUNE):
+- [K Radius Subarray Averages](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/7.md) (LEETCODE medium)
 
-30 [First and Last Occurence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) (22Sept GFG  medium)
+Day 12 (21 JUNE):
+- [Lemonade Change](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/8.md) (GFG medium)
 
-31 .[Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp)  (23Sept GFG Easy)
+Day 13 (4 JULY):
+- [Single Number 2](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/583c273e07e3039e487a79ab3af7232ba9581830/Medium/9.md) (LEETCODE medium)
 
-32 [Maximum Sum Combination](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/21.md) (25Sept GFG Medium) 
-   [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md) (25th Leetcode Easy)
+Day 14 (5 JULY):
+- [Longest Subarray of 1's After Deleting One Element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/10.md) (LEETCODE medium)
 
-33. [Find All Sum Numbers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/22.md) (26Sept GFG Medium) 
+Day 15 (6 JULY):
+- [Minimum Size Subarray Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Medium/11.md) (LEETCODE medium)
+
+Day 16 (7 JULY):
+- [Maximize the Confusion of an Exam](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/12.md) (LEETCODE medium)
+
+Day 17 (10 JULY):
+- [Minimum Depth of Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/8.md) (LEETCODE easy)
+
+Day 18 (17 JULY):
+- [Add Two Numbers II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/13.md) (LEETCODE medium)
+
+Day 19 (21 AUGUST):
+- [Srrounds of 1's](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/1.md) (GFG basic)
+- [Repeated Substring Pattern](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/2.md) (LEETCODE basic)
+
+Day 20 (22 AUGUST):
+- [Make Beautiful Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/1.md) (GFG medium)
+- [Excel Sheet Column Title](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/3.md) (LEETCODE basic)
+
+Day 21 (26 AUGUST):
+- [Maximum Length Of Pair Chain](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/14.md) (LEETCODE medium)
+- [Longest k unique characters substring](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Sliding%20Window/5.md) (GFG medium)
+
+Day 22 (30 AUGUST):
+- [Delete a Node in Single Linked List](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/9.md) (GFG easy)
+
+Day 23 (2 SEPTEMBER):
+- [Leaf under budget](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/10.md) (GFG easy)
+- [Linked List Cycle](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/11.md) (LEETCODE easy)
+
+Day 24 (12 SEPTEMBER):
+- [Minimum Deletion to make Character Frequencies Unique](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/15.md) (LEETCODE medium)
+- [Perfect Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/12.md) (GFG easy)
+
+Day 25 (12 SEPTEMBER):
+- [Perfect Sum Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/16.md) (LEETCODE medium)
+
+Day 26 (17 SEPTEMBER):
+- [Print First n Fibonacci Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/5.md) (GFG basic)
+
+Day 27 (18 SEPTEMBER):
+- [The K Weakest Rows in a Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/13.md) (LEETCODE easy)
+- [Power of 2](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/Power%20of%202/power-of-2.cpp) (GFG Basic)
+
+Day 28 (19 SEPTEMBER):
+- [Find First Set Bit](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/14.md) (GFG easy)
+- [Find the Duplicate](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/17.md) (LEETCODE medium)
+
+Day 29 (20 SEPTEMBER):
+- [Rotate Bits](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/4.md) (GFG)
+- [Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md) (LEETCODE medium)
+
+Day 30 (22 SEPTEMBER):
+- [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) (GFG medium)
+
+Day 31 (23 SEPTEMBER):
+- [Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp) (GFG Easy)
+
+Day 32 (25 SEPTEMBER):
+- [Maximum Sum Combination](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/21.md) (GFG Medium)
+- [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md) (LEETCODE Easy)
+
+Day 33 (26 SEPTEMBER):
+- [Find All Sum Numbers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/22.md) (GFG Medium)
+
+Day 34 (27 SEPTEMBER):
+- [Find the closest pair from two arrays](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/16.md) (GFG Easy)
 
 
 
