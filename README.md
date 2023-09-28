@@ -166,6 +166,9 @@ Day 33 (26 SEPTEMBER):
 Day 34 (27 SEPTEMBER):
 - [Find the closest pair from two arrays](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/16.md) (GFG Easy)
 
+Day 35 (28 SEPTEMBER):
+- [Wave Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/17.md) (GFG Easy)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
