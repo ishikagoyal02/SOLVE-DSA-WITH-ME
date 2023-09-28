@@ -168,6 +168,7 @@ Day 34 (27 SEPTEMBER):
 
 Day 35 (28 SEPTEMBER):
 - [Wave Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/17.md) (GFG Easy)
+- [Sort Array By Parity](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/18.md)  (LEETCODE Easy)
 
 
 
