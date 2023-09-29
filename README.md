@@ -170,6 +170,10 @@ Day 35 (28 SEPTEMBER):
 - [Wave Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/17.md) (GFG Easy)
 - [Sort Array By Parity](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/18.md)  (LEETCODE Easy)
 
+Day 36 (29 SEPTEMBER):
+- [Monotonic Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/19.md)  (LEETCODE Easy)
+
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
