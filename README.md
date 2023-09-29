@@ -193,6 +193,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   10. [Equilibrium Point](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/Equilibrium%20Point/equilibrium-point.cpp)
   11. [Print First n Fibonacci Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/5.md)
   12. [Monotonic Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/19.md)
+  13. [Find triplets with zero sum](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/8.md)
 
 
   ## Recursion And Backtracking
