@@ -173,6 +173,9 @@ Day 35 (28 SEPTEMBER):
 Day 36 (29 SEPTEMBER):
 - [Monotonic Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/19.md)  (LEETCODE Easy)
 
+Day 37 (30 SEPTEMBER):
+- [Boolean Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/23.md) (GFG Medium)
+
 
 
 
@@ -194,6 +197,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   11. [Print First n Fibonacci Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Basic/5.md)
   12. [Monotonic Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/19.md)
   13. [Find triplets with zero sum](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/8.md)
+  14. [Boolean Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/23.md)
 
 
   ## Recursion And Backtracking
