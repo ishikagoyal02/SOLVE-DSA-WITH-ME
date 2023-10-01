@@ -176,6 +176,9 @@ Day 36 (29 SEPTEMBER):
 Day 37 (30 SEPTEMBER):
 - [Boolean Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/23.md) (GFG Medium)
 
+Day 38 (1 OCTOBER):
+- [Boundary traversal of matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (GFG Easy)
+
 
 
 
@@ -198,6 +201,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   12. [Monotonic Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/19.md)
   13. [Find triplets with zero sum](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/8.md)
   14. [Boolean Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/23.md)
+  15. [Boundary traversal of matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md)
 
 
   ## Recursion And Backtracking
