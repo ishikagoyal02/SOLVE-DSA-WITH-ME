@@ -179,6 +179,9 @@ Day 37 (30 SEPTEMBER):
 Day 38 (1 OCTOBER):
 - [Boundary traversal of matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (GFG Easy)
 
+Day 39(3 OCTOBER)
+- [Number Of Good Pair](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (LEETCODE Easy)
+
 
 
 
@@ -202,6 +205,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   13. [Find triplets with zero sum](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/8.md)
   14. [Boolean Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/23.md)
   15. [Boundary traversal of matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md)
+  16. [Number Of Good Pair](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (LEETCODE Easy)
 
 
   ## Recursion And Backtracking
