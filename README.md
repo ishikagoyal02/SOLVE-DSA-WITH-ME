@@ -180,7 +180,8 @@ Day 38 (1 OCTOBER):
 - [Boundary traversal of matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (GFG Easy)
 
 Day 39(3 OCTOBER)
-- [Number Of Good Pair](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (LEETCODE Easy)
+- [Column name from a given column number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/24.md) (GFG MEDIUM)
+- [Number Of Good Pair](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/21.md) (LEETCODE Easy)
 
 
 
