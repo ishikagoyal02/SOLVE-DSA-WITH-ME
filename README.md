@@ -183,6 +183,9 @@ Day 39(3 OCTOBER)
 - [Column name from a given column number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/24.md) (GFG MEDIUM)
 - [Number Of Good Pair](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/21.md) (LEETCODE Easy)
 
+DAY 40(4 OCTOBER)
+- [Roman Number to Integer](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/22.md) (GFG Easy)
+
 
 
 
