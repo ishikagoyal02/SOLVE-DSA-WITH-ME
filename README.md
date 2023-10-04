@@ -185,6 +185,8 @@ Day 39(3 OCTOBER)
 
 DAY 40(4 OCTOBER)
 - [Roman Number to Integer](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/22.md) (GFG Easy)
+- [Design Hashmap](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/23.md) (LEETCODE Easy)
+
 
 
 
