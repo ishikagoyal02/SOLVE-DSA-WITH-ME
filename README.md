@@ -187,6 +187,11 @@ DAY 40(4 OCTOBER)
 - [Roman Number to Integer](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/22.md) (GFG Easy)
 - [Design Hashmap](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/23.md) (LEETCODE Easy)
 
+Day 41(9 OCTOBER)
+- [Find First and Second Position of Element in Sorted Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/25.md) (LEETCODE MEDIUM)
+- [Maximum Height Of Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/5.md)
+  
+
 
 
 
@@ -352,7 +357,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 3.[Frog Jump](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/3.md)
 
 ## Binary Search
-1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md) 
+1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
+2. [Find First and Second Position of Element in Sorted Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/25.md)
 
 
 ## Contributing
