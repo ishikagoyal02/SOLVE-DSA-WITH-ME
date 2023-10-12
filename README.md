@@ -190,6 +190,9 @@ DAY 40(4 OCTOBER)
 Day 41(9 OCTOBER)
 - [Find First and Second Position of Element in Sorted Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/25.md) (LEETCODE MEDIUM)
 - [Maximum Height Of Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/5.md)
+
+Day 42(12 OCTOBER)
+- [Duplicate subtree in Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/11.md) (GFG Medium)
   
 
 
@@ -258,6 +261,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 8. [Maximum Path Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/8.md)
 9. [Same Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/9.md)
 10. [ZigZag Level Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/10.md)
+11. [Duplicate subtree in Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/11.md)
 
 
 ## Sliding Window
