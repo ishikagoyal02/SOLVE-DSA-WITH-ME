@@ -193,6 +193,9 @@ Day 41(9 OCTOBER)
 
 Day 42(12 OCTOBER)
 - [Duplicate subtree in Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/11.md) (GFG Medium)
+
+Day 43(13 OCTOBER)
+- [Floor in BST](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/12.md) (GFG Medium)
   
 
 
@@ -262,6 +265,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 9. [Same Tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/9.md)
 10. [ZigZag Level Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/10.md)
 11. [Duplicate subtree in Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/11.md)
+12. [Floor in BST](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/12.md)
 
 
 ## Sliding Window
