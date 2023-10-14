@@ -223,6 +223,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   14. [Boolean Matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/23.md)
   15. [Boundary traversal of matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md)
   16. [Number Of Good Pair](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (LEETCODE Easy)
+  17. [Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
 
 
   ## Recursion And Backtracking
@@ -313,6 +314,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 7 [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md)
 
 8.[Maximum Old Binary Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/7.md) (Leetcode Contest)
+
+9.[Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
 
 
 
