@@ -226,6 +226,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   17. [Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
   18. [Longest Unequal Adjacent Groups Subsequence I](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/9.md) (Leetcode Contest)
   19. [Find Indices With Index and Value Difference I](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/10.md) (Leetcode Contest)
+  20. [Negative Prefix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/11.md) (GFG Contest)
 
 
   ## Recursion And Backtracking
