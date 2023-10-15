@@ -224,6 +224,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   15. [Boundary traversal of matrix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md)
   16. [Number Of Good Pair](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/20.md) (LEETCODE Easy)
   17. [Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
+  18. [Longest Unequal Adjacent Groups Subsequence I](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/9.md) (Leetcode Contest)
 
 
   ## Recursion And Backtracking
