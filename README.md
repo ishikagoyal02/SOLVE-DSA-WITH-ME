@@ -196,6 +196,9 @@ Day 42(12 OCTOBER)
 
 Day 43(13 OCTOBER)
 - [Floor in BST](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/12.md) (GFG Medium)
+
+Day 44(14 OCTOBER)
+- [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) (LEETCODE Easy) 
   
 
 
@@ -227,6 +230,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   18. [Longest Unequal Adjacent Groups Subsequence I](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/9.md) (Leetcode Contest)
   19. [Find Indices With Index and Value Difference I](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/10.md) (Leetcode Contest)
   20. [Negative Prefix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/11.md) (GFG Contest)
+  21. [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) 
 
 
   ## Recursion And Backtracking
