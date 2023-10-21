@@ -199,6 +199,9 @@ Day 43(13 OCTOBER)
 
 Day 44(14 OCTOBER)
 - [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) (LEETCODE Easy) 
+
+Day 45(21 OCTOBER)
+-[Sum of all divisors from 1 to n](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/24.md) (GFG Easy)
   
 
 
