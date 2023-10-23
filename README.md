@@ -204,7 +204,8 @@ Day 45(21 OCTOBER)
 -[Sum of all divisors from 1 to n](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/24.md) (GFG Easy)
 
 Day 46(23 OCTOBER)  
--[Power Of Four](./BitManipulation/5.md)
+-[Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md) (GFG Medium)
+-[Power Of Four](./BitManipulation/5.md) (LEETCODE Easy)
   
 
 
@@ -381,6 +382,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 2.[Climbing Stairs](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md)
 
 3.[Frog Jump](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/3.md)
+
+4.[Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
