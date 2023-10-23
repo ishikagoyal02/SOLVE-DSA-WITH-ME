@@ -200,8 +200,11 @@ Day 43(13 OCTOBER)
 Day 44(14 OCTOBER)
 - [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) (LEETCODE Easy) 
 
-Day 45(21 OCTOBER)
+Day 45(21 OCTOBER) 
 -[Sum of all divisors from 1 to n](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/24.md) (GFG Easy)
+
+Day 46(23 OCTOBER)  
+-[Power Of Four](./BitManipulation/5.md)
   
 
 
@@ -256,12 +259,14 @@ Feel free to explore the repository and review the solutions to each POTD questi
    16. [Permutation](./Recursion/16.md)
    17. [Permutation2](./Recursion/17.md)
    18. [Count Good Numbers](./Recursion/18.md)
+   19. -[Power Of Four](./BitManipulation/5.md)
   
 ## Bit Manipulation
 
 1. [Swap Two Numbers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation/1.md)
 2. [XOR Operation](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/BitManipulation/2.md)
 3. [Check whether K-th bit is set or not](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation/3.md)
+4.-[Power Of Four](./BitManipulation/5.md)
 
 ## Binary Tree
 
