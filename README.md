@@ -197,17 +197,17 @@ Day 42(12 OCTOBER)
 Day 43(13 OCTOBER)
 - [Floor in BST](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/12.md) (GFG Medium)
 
-Day 44(14 OCTOBER)
+Day 44(14 OCTOBER)<br>
 - [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) (LEETCODE Easy) 
 
-Day 45(21 OCTOBER) 
+Day 45(21 OCTOBER) <br>
 -[Sum of all divisors from 1 to n](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/24.md) (GFG Easy)
 
-Day 46(23 OCTOBER)  
--[Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md) (GFG Medium)
+Day 46(23 OCTOBER) <br>
+-[Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md) (GFG Medium)<br>
 -[Power Of Four](./BitManipulation/5.md) (LEETCODE Easy)
 
-Day 47(24 OCTOBER)
+Day 47(24 OCTOBER)<br>
 -[Find The Larget Value in Each Row](./Binary%20Tree/14.md) (LEETCODE Medium)
   
 
@@ -241,6 +241,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   19. [Find Indices With Index and Value Difference I](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/10.md) (Leetcode Contest)
   20. [Negative Prefix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/11.md) (GFG Contest)
   21. [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) 
+  22. [Form a number divisible by 3 using array digits](./array/13.md)
 
 
   ## Recursion And Backtracking
