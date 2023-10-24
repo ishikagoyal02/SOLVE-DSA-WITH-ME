@@ -206,6 +206,9 @@ Day 45(21 OCTOBER)
 Day 46(23 OCTOBER)  
 -[Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md) (GFG Medium)
 -[Power Of Four](./BitManipulation/5.md) (LEETCODE Easy)
+
+Day 47(24 OCTOBER)
+-[Find The Larget Value in Each Row](./Binary%20Tree/14.md) (LEETCODE Medium)
   
 
 
@@ -283,6 +286,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 10. [ZigZag Level Traversal](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/10.md)
 11. [Duplicate subtree in Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/11.md)
 12. [Floor in BST](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/12.md)
+13. [Find The Larget Value in Each Row](./Binary%20Tree/14.md)
 
 
 ## Sliding Window
