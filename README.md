@@ -31,6 +31,7 @@ The repository covers a wide range of DSA topics, including but not limited to:
 8. [Greedy Algorithm](#greedy)
 9. [Dynamic Programming](#dynamic-programming)
 10. [Binary Search](#binary-search)
+11. [Linked List](#linked-list)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -209,6 +210,9 @@ Day 46(23 OCTOBER) <br>
 
 Day 47(24 OCTOBER)<br>
 -[Find The Larget Value in Each Row](./Binary%20Tree/14.md) (LEETCODE Medium)
+
+Day 48(25 OCTOBER)<br>
+-[K-th Symbol in Grammar](./Recursion/19.md) (LEETCODE Medium)
   
 
 
@@ -265,6 +269,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
    17. [Permutation2](./Recursion/17.md)
    18. [Count Good Numbers](./Recursion/18.md)
    19. -[Power Of Four](./BitManipulation/5.md)
+   20. -[K-th Symbol in Grammar](./Recursion/19.md)
   
 ## Bit Manipulation
 
@@ -393,6 +398,12 @@ Feel free to explore the repository and review the solutions to each POTD questi
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
 2. [Find First and Second Position of Element in Sorted Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/25.md)
+
+
+## Linked List
+1.[Insert a sorted node](./Linked%20List/1.md)
+2.[Pairwise swapping](./Linked%20List/2.md)
+
 
 
 ## Contributing
