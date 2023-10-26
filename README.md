@@ -213,6 +213,9 @@ Day 47(24 OCTOBER)<br>
 
 Day 48(25 OCTOBER)<br>
 -[K-th Symbol in Grammar](./Recursion/19.md) (LEETCODE Medium)
+
+Day 49(26 OCTOBER)<br>
+-[Minimum Operation](./Recursion/20.md) (GFG Easy)
   
 
 
@@ -270,6 +273,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
    18. [Count Good Numbers](./Recursion/18.md)
    19. -[Power Of Four](./BitManipulation/5.md)
    20. -[K-th Symbol in Grammar](./Recursion/19.md)
+   21. -[Minimum Operation](./Recursion/20.md)
   
 ## Bit Manipulation
 
