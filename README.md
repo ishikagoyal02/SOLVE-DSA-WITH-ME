@@ -216,6 +216,10 @@ Day 48(25 OCTOBER)<br>
 
 Day 49(26 OCTOBER)<br>
 -[Minimum Operation](./Recursion/20.md) (GFG Easy)
+
+Day 50(7 NOV)<br>
+-[Sum of upper and lower triangle](./array/14.md) (GFG Easy)
+-[Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
   
 
 
@@ -249,6 +253,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   20. [Negative Prefix](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/11.md) (GFG Contest)
   21. [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) 
   22. [Form a number divisible by 3 using array digits](./array/13.md)
+  23. [Sum of upper and lower triangle](./array/14.md) (GFG Easy)
 
 
   ## Recursion And Backtracking
@@ -387,6 +392,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 6[Fractional Knapsack](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/6.md)
 
 7[Lemonade Change](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/7.md)
+
+8-[Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
 
 
 ## Dynamic Programming
