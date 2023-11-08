@@ -220,6 +220,10 @@ Day 49(26 OCTOBER)<br>
 Day 50(7 NOV)<br>
 -[Sum of upper and lower triangle](./array/14.md) (GFG Easy)
 -[Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
+
+Day 51(8 NOV)<br>
+-[Print Matrix in Snake Pattern](./Easy/25.md) (GFG Easy)
+-[Determine Determine if a Cell Is Reachable at a Given Time](./Medium/26.md)
   
 
 
