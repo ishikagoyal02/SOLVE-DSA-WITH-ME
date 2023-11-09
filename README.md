@@ -217,13 +217,29 @@ Day 48(25 OCTOBER)<br>
 Day 49(26 OCTOBER)<br>
 -[Minimum Operation](./Recursion/20.md) (GFG Easy)
 
-Day 50(7 NOV)<br>
+
+Day 50(2 NOV)<br>
+-[Minimum Distance between two numbers](./array/15.md) (GFG Easy)
+
+Day 51(3 NOV)<br>
+-[Pythagorean Triplet](./array/16.md) (GFG Easy)
+
+Day 52(4 NOV)<br>
+-[Find Transition Point](./array/17.md) (GFG Easy)
+
+Day 53(5 NOV)<br>
+-[Top K Frequent Elements in Array-1](./array/18.md) (GFG Easy)
+
+Day 55(7 NOV)<br>
 -[Sum of upper and lower triangle](./array/14.md) (GFG Easy)
 -[Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
 
-Day 51(8 NOV)<br>
+Day 56(8 NOV)<br>
 -[Print Matrix in Snake Pattern](./Easy/25.md) (GFG Easy)
 -[Determine Determine if a Cell Is Reachable at a Given Time](./Medium/26.md)
+
+Day 57(9 NOV)<br>
+-[Predict the column](./array/19.md) (GFG Easy)
   
 
 
