@@ -240,6 +240,7 @@ Day 56(8 NOV)<br>
 
 Day 57(9 NOV)<br>
 -[Predict the column](./array/19.md) (GFG Easy)
+-[Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
   
 
 
@@ -393,7 +394,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 9.[Convert Min heap into max Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/7.md)
 
-10[Sort a array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Heap/8.md)
+10.[Sort a array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Heap/8.md)
+
+11.[Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
 
 
 
