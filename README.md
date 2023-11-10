@@ -241,6 +241,9 @@ Day 56(8 NOV)<br>
 Day 57(9 NOV)<br>
 -[Predict the column](./array/19.md) (GFG Easy)
 -[Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
+
+Day 58(10 NOV)<br>
+-[Restore the Array from Adjacent Pairs](./Medium/27.md) (LEETCODE MEDIUM) using dfs
   
 
 
