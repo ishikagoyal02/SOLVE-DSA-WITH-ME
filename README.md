@@ -245,6 +245,9 @@ Day 57(9 NOV)<br>
 Day 58(10 NOV)<br>
 -[Restore the Array from Adjacent Pairs](./Medium/27.md) (LEETCODE MEDIUM) using dfs
 -[Number following a pattern](./String/9.md) (GFG MEDIUM)
+
+DAY 59(11 NOV)<br>
+-[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
   
 
 
@@ -378,6 +381,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 9.[Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
 
 10.[Number following a pattern](./String/9.md) (GFG MEDIUM)
+
+11.[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
 
 
 
