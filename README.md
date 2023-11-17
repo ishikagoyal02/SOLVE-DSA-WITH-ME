@@ -248,10 +248,10 @@ Day 58(10 NOV)<br>
 
 DAY 59(11 NOV)<br>
 -[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
+
+DAY 60(12 NOV)<br>
+-[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
   
-
-
-
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -330,6 +330,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 11. [Duplicate subtree in Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/11.md)
 12. [Floor in BST](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/12.md)
 13. [Find The Larget Value in Each Row](./Binary%20Tree/14.md)
+14.[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
 
 
 ## Sliding Window
@@ -448,6 +449,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 ## Linked List
 1.[Insert a sorted node](./Linked%20List/1.md)
 2.[Pairwise swapping](./Linked%20List/2.md)
+3.[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
 
 
 
