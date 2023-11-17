@@ -251,6 +251,7 @@ DAY 59(11 NOV)<br>
 
 DAY 60(12 NOV)<br>
 -[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
+-[Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
   
 
 
@@ -358,6 +359,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 11.[Subarray with given sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/10.md) (1st subarray)
 
 12.[Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md)
+
+13.[Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
 
 
 
