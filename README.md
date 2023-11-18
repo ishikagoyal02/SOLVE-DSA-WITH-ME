@@ -249,9 +249,12 @@ Day 58(10 NOV)<br>
 DAY 59(11 NOV)<br>
 -[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
 
-DAY 60(12 NOV)<br>
+DAY 60(17 NOV)<br>
 -[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
 -[Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
+
+Day 61(18 NOV)<br>
+-[Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
   
 
 
@@ -453,6 +456,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 1.[Insert a sorted node](./Linked%20List/1.md)
 2.[Pairwise swapping](./Linked%20List/2.md)
 3.[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
+4.[Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
 
 
 
