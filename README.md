@@ -258,7 +258,7 @@ Day 61(18 NOV)<br>
 
 DAY 62(19 NOV)<br>
 -[Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
-  
+-[Reduction Operations to Make the Array Elements Equal](./Medium/30.md) (LEETCODE MEDIUM)
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
