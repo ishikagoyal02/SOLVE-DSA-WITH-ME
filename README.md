@@ -260,6 +260,10 @@ DAY 62(19 NOV)<br>
 -[Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
 -[Reduction Operations to Make the Array Elements Equal](./Medium/30.md) (LEETCODE MEDIUM)
 
+DAY 63(20 NOV)<br>
+-[K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
+
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -337,7 +341,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 11. [Duplicate subtree in Binary Tree](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/11.md)
 12. [Floor in BST](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Binary%20Tree/12.md)
 13. [Find The Larget Value in Each Row](./Binary%20Tree/14.md)
-14.[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
+14. [Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
+15. [K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
 
 
 ## Sliding Window
