@@ -262,6 +262,7 @@ DAY 62(19 NOV)<br>
 
 DAY 63(20 NOV)<br>
 -[K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
+-[Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
 
 
 
@@ -387,7 +388,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 5 [Non Repeating Character](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/5.md)
 
-6. [Remaining String](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/6.md)
+6.[Remaining String](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/6.md)
 
 7 [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md)
 
@@ -398,6 +399,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 10.[Number following a pattern](./String/9.md) (GFG MEDIUM)
 
 11.[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
+
+12.[Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
 
 
 
