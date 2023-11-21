@@ -266,6 +266,7 @@ DAY 63(20 NOV)<br>
 
 DAY 64(21 NOV)<br>
 -[Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
+-[Count Nice Pairs in an Array](./Medium/32.md) (LEETCODE MEDIUM)
 
 
 
