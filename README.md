@@ -264,6 +264,9 @@ DAY 63(20 NOV)<br>
 -[K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
 -[Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
 
+DAY 64(21 NOV)<br>
+-[Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -344,6 +347,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 13. [Find The Larget Value in Each Row](./Binary%20Tree/14.md)
 14. [Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
 15. [K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
+16. [Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
 
 
 ## Sliding Window
