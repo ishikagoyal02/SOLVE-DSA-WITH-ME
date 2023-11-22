@@ -270,6 +270,7 @@ DAY 64(21 NOV)<br>
 
 DAY 65(22 NOV)<br>
 -[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
+-[Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
 
 
 
@@ -302,6 +303,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   21. [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) 
   22. [Form a number divisible by 3 using array digits](./array/13.md)
   23. [Sum of upper and lower triangle](./array/14.md) (GFG Easy)
+  24. [Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
 
 
   ## Recursion And Backtracking
