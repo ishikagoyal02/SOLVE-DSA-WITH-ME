@@ -268,6 +268,10 @@ DAY 64(21 NOV)<br>
 -[Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
 -[Count Nice Pairs in an Array](./Medium/32.md) (LEETCODE MEDIUM)
 
+DAY 65(22 NOV)<br>
+-[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
+
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -349,6 +353,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 14. [Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
 15. [K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
 16. [Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
+17. -[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
 
 
 ## Sliding Window
