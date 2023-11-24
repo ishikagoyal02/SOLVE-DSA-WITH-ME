@@ -272,6 +272,9 @@ DAY 65(22 NOV)<br>
 -[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
 -[Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
 
+DAY 66(24 NOV)<br>
+-[Pascal Triangle](./Easy/26.md) (GFG EASY)<br>
+
 
 
 
