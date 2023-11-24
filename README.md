@@ -274,6 +274,7 @@ DAY 65(22 NOV)<br>
 
 DAY 66(24 NOV)<br>
 -[Pascal Triangle](./Easy/26.md) (GFG EASY)<br>
+-[Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
 
 
 
@@ -307,6 +308,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
   22. [Form a number divisible by 3 using array digits](./array/13.md)
   23. [Sum of upper and lower triangle](./array/14.md) (GFG Easy)
   24. [Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
+  25. [Pascal Triangle](./Easy/26.md) (GFG EASY)
+  26. [Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
+
 
 
   ## Recursion And Backtracking
