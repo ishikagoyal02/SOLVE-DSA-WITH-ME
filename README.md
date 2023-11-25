@@ -276,6 +276,9 @@ DAY 66(24 NOV)<br>
 -[Pascal Triangle](./Easy/26.md) (GFG EASY)<br>
 -[Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
 
+DAY 67(25 NOV)<br>
+-[Sum of Absolute Differences in a Sorted Array](./Medium/34.md) (LEETCODE MEDIUM)
+
 
 
 
