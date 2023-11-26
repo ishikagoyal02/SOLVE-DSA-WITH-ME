@@ -279,6 +279,8 @@ DAY 66(24 NOV)<br>
 DAY 67(25 NOV)<br>
 -[Sum of Absolute Differences in a Sorted Array](./Medium/34.md) (LEETCODE MEDIUM)
 
+DAY 68(26 NOV)<br>
+-[Print Pattern](./Recursion/21.md) (GFG EASY)
 
 
 
