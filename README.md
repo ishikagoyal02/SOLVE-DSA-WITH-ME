@@ -280,7 +280,8 @@ DAY 67(25 NOV)<br>
 -[Sum of Absolute Differences in a Sorted Array](./Medium/34.md) (LEETCODE MEDIUM)
 
 DAY 68(26 NOV)<br>
--[Print Pattern](./Recursion/21.md) (GFG EASY)
+-[Print Pattern](./Recursion/21.md) (GFG EASY)<br>
+-[Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
 
 
 
@@ -315,6 +316,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   24. [Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
   25. [Pascal Triangle](./Easy/26.md) (GFG EASY)
   26. [Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
+  27. [Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
 
 
 
@@ -341,6 +343,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
    19. -[Power Of Four](./BitManipulation/5.md)
    20. -[K-th Symbol in Grammar](./Recursion/19.md)
    21. -[Minimum Operation](./Recursion/20.md)
+   22. -[Print Pattern](./Recursion/21.md) (GFG EASY)
   
 ## Bit Manipulation
 
