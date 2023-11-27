@@ -261,15 +261,15 @@ DAY 62(19 NOV)<br>
 -[Reduction Operations to Make the Array Elements Equal](./Medium/30.md) (LEETCODE MEDIUM)
 
 DAY 63(20 NOV)<br>
--[K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
+-[K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP<br>
 -[Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
 
 DAY 64(21 NOV)<br>
--[Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
+-[Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)<br>
 -[Count Nice Pairs in an Array](./Medium/32.md) (LEETCODE MEDIUM)
 
 DAY 65(22 NOV)<br>
--[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
+-[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)<br>
 -[Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
 
 DAY 66(24 NOV)<br>
