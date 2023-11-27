@@ -231,33 +231,33 @@ Day 53(5 NOV)<br>
 -[Top K Frequent Elements in Array-1](./array/18.md) (GFG Easy)
 
 Day 55(7 NOV)<br>
--[Sum of upper and lower triangle](./array/14.md) (GFG Easy)
+-[Sum of upper and lower triangle](./array/14.md) (GFG Easy)<br>
 -[Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
 
 Day 56(8 NOV)<br>
--[Print Matrix in Snake Pattern](./Easy/25.md) (GFG Easy)
+-[Print Matrix in Snake Pattern](./Easy/25.md) (GFG Easy)<br>
 -[Determine Determine if a Cell Is Reachable at a Given Time](./Medium/26.md)
 
 Day 57(9 NOV)<br>
--[Predict the column](./array/19.md) (GFG Easy)
+-[Predict the column](./array/19.md) (GFG Easy)<br>
 -[Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
 
 Day 58(10 NOV)<br>
--[Restore the Array from Adjacent Pairs](./Medium/27.md) (LEETCODE MEDIUM) using dfs
+-[Restore the Array from Adjacent Pairs](./Medium/27.md) (LEETCODE MEDIUM) using dfs<br>
 -[Number following a pattern](./String/9.md) (GFG MEDIUM)
 
 DAY 59(11 NOV)<br>
 -[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
 
 DAY 60(17 NOV)<br>
--[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
+-[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)<br>
 -[Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
 
 Day 61(18 NOV)<br>
 -[Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
 
 DAY 62(19 NOV)<br>
--[Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
+-[Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)<br>
 -[Reduction Operations to Make the Array Elements Equal](./Medium/30.md) (LEETCODE MEDIUM)
 
 DAY 63(20 NOV)<br>
