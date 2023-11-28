@@ -317,6 +317,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   25. [Pascal Triangle](./Easy/26.md) (GFG EASY)
   26. [Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
   27. [Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
+  28. [Palindrome Number](./Easy/27.md)
 
 
 
