@@ -283,6 +283,9 @@ DAY 68(26 NOV)<br>
 -[Print Pattern](./Recursion/21.md) (GFG EASY)<br>
 -[Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
 
+DAY 69(29 NOV)<br>
+-[Number of 1 Bits](./BitManipulation/6.md) (LEETCODE EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -351,7 +354,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 1. [Swap Two Numbers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation/1.md)
 2. [XOR Operation](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/BitManipulation/2.md)
 3. [Check whether K-th bit is set or not](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation/3.md)
-4.-[Power Of Four](./BitManipulation/5.md)
+4. [Power Of Four](./BitManipulation/5.md)
+5. -[Number of 1 Bits](./BitManipulation/6.md) (LEETCODE EASY)
 
 ## Binary Tree
 
