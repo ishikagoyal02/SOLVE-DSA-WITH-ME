@@ -202,49 +202,49 @@ Day 44(14 OCTOBER)<br>
 - [Pascal's Triangle II](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/array/12.md) (LEETCODE Easy) 
 
 Day 45(21 OCTOBER) <br>
--[Sum of all divisors from 1 to n](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/24.md) (GFG Easy)
+- [Sum of all divisors from 1 to n](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/24.md) (GFG Easy)
 
 Day 46(23 OCTOBER) <br>
--[Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md) (GFG Medium)<br>
--[Power Of Four](./BitManipulation/5.md) (LEETCODE Easy)
+- [Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md) (GFG Medium)<br>
+- [Power Of Four](./BitManipulation/5.md) (LEETCODE Easy)
 
 Day 47(24 OCTOBER)<br>
--[Find The Larget Value in Each Row](./Binary%20Tree/14.md) (LEETCODE Medium)
+- [Find The Larget Value in Each Row](./Binary%20Tree/14.md) (LEETCODE Medium)
 
 Day 48(25 OCTOBER)<br>
--[K-th Symbol in Grammar](./Recursion/19.md) (LEETCODE Medium)
+- [K-th Symbol in Grammar](./Recursion/19.md) (LEETCODE Medium)
 
 Day 49(26 OCTOBER)<br>
--[Minimum Operation](./Recursion/20.md) (GFG Easy)
+- [Minimum Operation](./Recursion/20.md) (GFG Easy)
 
 
 Day 50(2 NOV)<br>
--[Minimum Distance between two numbers](./array/15.md) (GFG Easy)
+- [Minimum Distance between two numbers](./array/15.md) (GFG Easy)
 
 Day 51(3 NOV)<br>
--[Pythagorean Triplet](./array/16.md) (GFG Easy)
+- [Pythagorean Triplet](./array/16.md) (GFG Easy)
 
 Day 52(4 NOV)<br>
--[Find Transition Point](./array/17.md) (GFG Easy)
+- [Find Transition Point](./array/17.md) (GFG Easy)
 
 Day 53(5 NOV)<br>
--[Top K Frequent Elements in Array-1](./array/18.md) (GFG Easy)
+- [Top K Frequent Elements in Array-1](./array/18.md) (GFG Easy)
 
 Day 55(7 NOV)<br>
--[Sum of upper and lower triangle](./array/14.md) (GFG Easy)<br>
--[Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
+- [Sum of upper and lower triangle](./array/14.md) (GFG Easy)<br>
+- [Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
 
 Day 56(8 NOV)<br>
--[Print Matrix in Snake Pattern](./Easy/25.md) (GFG Easy)<br>
--[Determine Determine if a Cell Is Reachable at a Given Time](./Medium/26.md)
+- [Print Matrix in Snake Pattern](./Easy/25.md) (GFG Easy)<br>
+- [Determine Determine if a Cell Is Reachable at a Given Time](./Medium/26.md)
 
 Day 57(9 NOV)<br>
--[Predict the column](./array/19.md) (GFG Easy)<br>
--[Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
+- [Predict the column](./array/19.md) (GFG Easy)<br>
+- [Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
 
 Day 58(10 NOV)<br>
--[Restore the Array from Adjacent Pairs](./Medium/27.md) (LEETCODE MEDIUM) using dfs<br>
--[Number following a pattern](./String/9.md) (GFG MEDIUM)
+- [Restore the Array from Adjacent Pairs](./Medium/27.md) (LEETCODE MEDIUM) using dfs<br>
+- [Number following a pattern](./String/9.md) (GFG MEDIUM)
 
 DAY 59(11 NOV)<br>
 -[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
