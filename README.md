@@ -32,6 +32,7 @@ The repository covers a wide range of DSA topics, including but not limited to:
 9. [Dynamic Programming](#dynamic-programming)
 10. [Binary Search](#binary-search)
 11. [Linked List](#linked-list)
+12. [Binary Search Tree](#binary-search-tree)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -469,45 +470,49 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 ## Greedy
 
-1.[N meetings in a room](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Greedy%20Algorithm/1.md)
+1. [N meetings in a room](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Greedy%20Algorithm/1.md)
 
-2.[Shop in Candy Store](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/2.md)
+2. [Shop in Candy Store](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/2.md)
 
-3.[Check if it is possible to survive on Island](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/3.md) TRICKY
+3. [Check if it is possible to survive on Island](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/3.md) TRICKY
 
-4.[Chocolate Distribution Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/4.md)
+4. [Chocolate Distribution Problem](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/4.md)
 
-5[Assign Cookies](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/5.md)
+5. [Assign Cookies](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/5.md)
 
-6[Fractional Knapsack](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/6.md)
+6. [Fractional Knapsack](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/6.md)
 
-7[Lemonade Change](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/7.md)
+7. [Lemonade Change](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/7.md)
 
-8-[Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
+8. [Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
 
 
 ## Dynamic Programming
 
-1.[Fibonacci Series](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/1.md)
+1. [Fibonacci Series](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/1.md)
 
-2.[Climbing Stairs](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md)
+2. [Climbing Stairs](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/2.md)
 
-3.[Frog Jump](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/3.md)
+3. [Frog Jump](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/3.md)
 
-4.[Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md)
+4. [Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
+
 2. [Find First and Second Position of Element in Sorted Array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/25.md)
 
 
 ## Linked List
-1.[Insert a sorted node](./Linked%20List/1.md)
-2.[Pairwise swapping](./Linked%20List/2.md)
-3.[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
-4.[Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
-5.[Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
+1. [Insert a sorted node](./Linked%20List/1.md)
+2. [Pairwise swapping](./Linked%20List/2.md)
+3. [Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
+4. [Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
+5. [Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
 
+
+## Binary Search Tree
+1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
 
 
 ## Contributing
