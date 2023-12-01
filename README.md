@@ -273,18 +273,22 @@ DAY 65(22 NOV)<br>
 -[Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
 
 DAY 66(24 NOV)<br>
--[Pascal Triangle](./Easy/26.md) (GFG EASY)<br>
--[Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
+- [Pascal Triangle](./Easy/26.md) (GFG EASY)<br>
+- [Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
 
 DAY 67(25 NOV)<br>
--[Sum of Absolute Differences in a Sorted Array](./Medium/34.md) (LEETCODE MEDIUM)
+- [Sum of Absolute Differences in a Sorted Array](./Medium/34.md) (LEETCODE MEDIUM)
 
 DAY 68(26 NOV)<br>
--[Print Pattern](./Recursion/21.md) (GFG EASY)<br>
--[Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
+- [Print Pattern](./Recursion/21.md) (GFG EASY)<br>
+- [Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
 
 DAY 69(29 NOV)<br>
--[Number of 1 Bits](./BitManipulation/6.md) (LEETCODE EASY)
+- [Number of 1 Bits](./BitManipulation/6.md) (LEETCODE EASY)
+
+DAY 70(1 DEC)<br>
+- [1662. Check If Two String Arrays are Equivalent](./String/)  (LEETCODE EASY)
+
 
 
 
@@ -410,29 +414,31 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 ## String
 
-1.[Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
+1. [Reconstruct Original Digits from English](https://leetcode.com/problems/reconstruct-original-digits-from-english/description/)
 
-2.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/4.md) (String separated by ".")
+2. [Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/4.md) (String separated by ".")
 
-3.[Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/3.md) (String separated by " ")
+3. [Reverse words in a given string](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/3.md) (String separated by " ")
 
-4.[Anagram](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md)
+4. [Anagram](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/2.md)
 
-5 [Non Repeating Character](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/5.md)
+5. [Non Repeating Character](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/5.md)
 
-6.[Remaining String](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/6.md)
+6. [Remaining String](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/6.md)
 
-7 [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md)
+7. [Find the Difference](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Easy/15.md)
 
-8.[Maximum Old Binary Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/7.md) (Leetcode Contest)
+8. [Maximum Old Binary Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/7.md) (Leetcode Contest)
 
-9.[Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
+9. [Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
 
-10.[Number following a pattern](./String/9.md) (GFG MEDIUM)
+10. [Number following a pattern](./String/9.md) (GFG MEDIUM)
 
-11.[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
+11. [Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
 
-12.[Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
+12. [Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
+
+13. [1662. Check If Two String Arrays are Equivalent](./String/)  (LEETCODE EASY)
 
 
 
