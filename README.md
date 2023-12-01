@@ -513,6 +513,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 ## Binary Search Tree
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
+2. [Minimum in BST](./Binary%20Search%20Tree/2.md)
 
 
 ## Contributing
