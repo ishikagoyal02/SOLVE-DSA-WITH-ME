@@ -290,6 +290,10 @@ DAY 69(29 NOV)<br>
 DAY 70(1 DEC)<br>
 - [1662. Check If Two String Arrays are Equivalent](./String/)  (LEETCODE EASY)
 
+DAY 71(2 DEC)<br>
+- [Inorder Traversal and BST](./Binary%20Search%20Tree/3.md)  (GFG EASY)
+- [1160. Find Words That Can Be Formed by Characters](./String/13.md)  (LEETCODE EASY)
+
 
 
 
@@ -441,6 +445,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 13. [1662. Check If Two String Arrays are Equivalent](./String/)  (LEETCODE EASY)
 
+14. [1160. Find Words That Can Be Formed by Characters](./String/13.md)  (LEETCODE EASY)
+
 
 
 ## Heap
@@ -514,6 +520,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 ## Binary Search Tree
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
 2. [Minimum in BST](./Binary%20Search%20Tree/2.md)
+3. [Inorder Traversal and BST](./Binary%20Search%20Tree/3.md)
 
 
 ## Contributing
