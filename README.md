@@ -521,6 +521,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
 2. [Minimum in BST](./Binary%20Search%20Tree/2.md)
 3. [Inorder Traversal and BST](./Binary%20Search%20Tree/3.md)
+4. [Ceil in BST](./Binary%20Search%20Tree/4.md)
+5. [Floor in BST](./Binary%20Search%20Tree/5.md)
 
 
 ## Contributing
