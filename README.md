@@ -294,6 +294,9 @@ DAY 71(2 DEC)<br>
 - [Inorder Traversal and BST](./Binary%20Search%20Tree/3.md)  (GFG EASY)
 - [1160. Find Words That Can Be Formed by Characters](./String/13.md)  (LEETCODE EASY)
 
+DAY 72(3 DEC)<br>
+- [Brothers from Different Roots](./Binary%20Search%20Tree/7.md)  (GFG EASY)
+
 
 
 
@@ -524,6 +527,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 4. [Ceil in BST](./Binary%20Search%20Tree/4.md)
 5. [Floor in BST](./Binary%20Search%20Tree/5.md)
 6. [Insert Node in BST](./Binary%20Search%20Tree/6.md)
+7. [Brothers from Different Roots](./Binary%20Search%20Tree/7.md)  (GFG EASY 3 DEC)
 
 
 ## Contributing
