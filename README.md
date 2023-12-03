@@ -296,6 +296,7 @@ DAY 71(2 DEC)<br>
 
 DAY 72(3 DEC)<br>
 - [Brothers from Different Roots](./Binary%20Search%20Tree/7.md)  (GFG EASY)
+- [Minimum Time Visiting All points](./array/20.md)  (LEETCODE EASY)
 
 
 
@@ -333,6 +334,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   26. [Maximum Number of Coins You Can Get](./Medium/34.md) (LEETCODE MEDIUM)
   27. [Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
   28. [Palindrome Number](./Easy/27.md)
+  29. [Minimum Time Visiting All points](./array/20.md)  (LEETCODE EASY)
 
 
 
