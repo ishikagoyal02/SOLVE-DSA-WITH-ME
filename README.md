@@ -523,6 +523,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 3. [Inorder Traversal and BST](./Binary%20Search%20Tree/3.md)
 4. [Ceil in BST](./Binary%20Search%20Tree/4.md)
 5. [Floor in BST](./Binary%20Search%20Tree/5.md)
+6. [Insert Node in BST](./Binary%20Search%20Tree/6.md)
 
 
 ## Contributing
