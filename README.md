@@ -298,6 +298,9 @@ DAY 72(3 DEC)<br>
 - [Brothers from Different Roots](./Binary%20Search%20Tree/7.md)  (GFG EASY)
 - [Minimum Time Visiting All points](./array/20.md)  (LEETCODE EASY)
 
+DAY 73(4 DEC)<br>
+- [Largest 3 Same Digit Number in String](./String/1.md)  (LEETCODE EASY)
+
 
 
 
@@ -451,6 +454,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 13. [1662. Check If Two String Arrays are Equivalent](./String/)  (LEETCODE EASY)
 
 14. [1160. Find Words That Can Be Formed by Characters](./String/13.md)  (LEETCODE EASY)
+
+15. [Largest 3 Same Digit Number in String](./String/1.md)  (LEETCODE EASY)
 
 
 
