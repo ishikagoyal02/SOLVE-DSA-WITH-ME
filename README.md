@@ -301,6 +301,9 @@ DAY 72(3 DEC)<br>
 DAY 73(4 DEC)<br>
 - [Largest 3 Same Digit Number in String](./String/1.md)  (LEETCODE EASY)
 
+DAY 74(5 DEC)<br>
+- [Minimize the height 2](./array/21.md) (GFG MEDIUM)
+
 
 
 
@@ -338,6 +341,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   27. [Largest Submatrix With Rearrangements](./Medium/35.md) (LEETCODE MEDIUM)
   28. [Palindrome Number](./Easy/27.md)
   29. [Minimum Time Visiting All points](./array/20.md)  (LEETCODE EASY)
+  30. [Minimize the height 2](./array/21.md) (GFG MEDIUM)
 
 
 
