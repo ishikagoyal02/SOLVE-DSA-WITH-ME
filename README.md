@@ -303,6 +303,7 @@ DAY 73(4 DEC)<br>
 
 DAY 74(5 DEC)<br>
 - [Minimize the height 2](./array/21.md) (GFG MEDIUM)
+- [Count of Matches in Tournament](./Easy/28.md)  (LEETCODE EASY)
 
 
 
@@ -342,6 +343,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   28. [Palindrome Number](./Easy/27.md)
   29. [Minimum Time Visiting All points](./array/20.md)  (LEETCODE EASY)
   30. [Minimize the height 2](./array/21.md) (GFG MEDIUM)
+  31. [Count of Matches in Tournament](./Easy/28.md)  (LEETCODE EASY)
 
 
 
