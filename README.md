@@ -307,6 +307,7 @@ DAY 74(5 DEC)<br>
 
 DAY 75(6 DEC)<br>
 - [How Many X's?](./String/14.md) (GFG MEDIUM)
+- [Calculate Money in Leetcode Bank](./Easy/29.md) (LEETCODE EASY)
 
 
 
