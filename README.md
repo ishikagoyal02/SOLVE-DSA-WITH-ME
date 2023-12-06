@@ -305,6 +305,9 @@ DAY 74(5 DEC)<br>
 - [Minimize the height 2](./array/21.md) (GFG MEDIUM)
 - [Count of Matches in Tournament](./Easy/28.md)  (LEETCODE EASY)
 
+DAY 75(6 DEC)<br>
+- [How Many X's?](./String/14.md) (GFG MEDIUM)
+
 
 
 
@@ -449,7 +452,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 8. [Maximum Old Binary Number](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/7.md) (Leetcode Contest)
 
-9. [Last Visited Integers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/String/8.md) (Leetcode Contest)
+9. [Last Visited Integers](./String/8.md) (Leetcode Contest)
 
 10. [Number following a pattern](./String/9.md) (GFG MEDIUM)
 
@@ -462,6 +465,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 14. [1160. Find Words That Can Be Formed by Characters](./String/13.md)  (LEETCODE EASY)
 
 15. [Largest 3 Same Digit Number in String](./String/1.md)  (LEETCODE EASY)
+
+16. [How Many X's?](./String/14.md) (GFG MEDIUM)
 
 
 
