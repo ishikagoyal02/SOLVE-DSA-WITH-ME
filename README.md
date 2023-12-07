@@ -309,7 +309,8 @@ DAY 75(6 DEC)<br>
 - [How Many X's?](./String/14.md) (GFG MEDIUM)
 - [Calculate Money in Leetcode Bank](./Easy/29.md) (LEETCODE EASY)
 
-
+DAY 76(7 DEC)<br>
+- [Largest Odd Number in String](./String/15.md)  (LEETCODE EASY)
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -468,6 +469,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 15. [Largest 3 Same Digit Number in String](./String/1.md)  (LEETCODE EASY)
 
 16. [How Many X's?](./String/14.md) (GFG MEDIUM)
+
+17. [Largest Odd Number in String](./String/15.md)  (LEETCODE EASY)
 
 
 
