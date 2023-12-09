@@ -311,6 +311,7 @@ DAY 75(6 DEC)<br>
 
 DAY 76(7 DEC)<br>
 - [Largest Odd Number in String](./String/15.md)  (LEETCODE EASY)
+- [Smith Number](./array/22.md) (GFG MEDIUM)
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
