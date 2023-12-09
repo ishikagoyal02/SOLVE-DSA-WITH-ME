@@ -311,10 +311,10 @@ DAY 75(6 DEC)<br>
 
 DAY 76(7 DEC)<br>
 - [Largest Odd Number in String](./String/15.md)  (LEETCODE EASY)
-- [Smith Number](./array/22.md) (GFG MEDIUM)
 
 DAY 77(9 DEC)<br>
-- [Inorder traversal of binary tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/1.md)  (LEETCODE EASY)
+- [Inorder traversal of binary tree](./Binary%20Tree/1.md)  (LEETCODE EASY)
+- [Smith Number](./array/22.md) (GFG MEDIUM)
 
   
 
