@@ -312,6 +312,11 @@ DAY 75(6 DEC)<br>
 DAY 76(7 DEC)<br>
 - [Largest Odd Number in String](./String/15.md)  (LEETCODE EASY)
 
+DAY 77(9 DEC)<br>
+- [Inorder traversal of binary tree](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Binary%20Tree/1.md)  (LEETCODE EASY)
+
+  
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
