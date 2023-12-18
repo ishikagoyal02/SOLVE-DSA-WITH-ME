@@ -316,7 +316,8 @@ DAY 77(9 DEC)<br>
 - [Inorder traversal of binary tree](./Binary%20Tree/1.md)  (LEETCODE EASY)
 - [Smith Number](./array/22.md) (GFG MEDIUM)
 
-  
+DAY 78(18 DEC)<br>
+-[Maximum Product Difference Between Two Pairs](./array/23.md) (LEETCODE EASY)
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -355,6 +356,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   29. [Minimum Time Visiting All points](./array/20.md)  (LEETCODE EASY)
   30. [Minimize the height 2](./array/21.md) (GFG MEDIUM)
   31. [Count of Matches in Tournament](./Easy/28.md)  (LEETCODE EASY)
+  32. [Maximum Product Difference Between Two Pairs](./array/23.md) (LEETCODE EASY)
 
 
 
