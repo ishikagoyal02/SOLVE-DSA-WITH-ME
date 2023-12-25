@@ -558,6 +558,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 5. [Floor in BST](./Binary%20Search%20Tree/5.md)
 6. [Insert Node in BST](./Binary%20Search%20Tree/6.md)
 7. [Brothers from Different Roots](./Binary%20Search%20Tree/7.md)  (GFG EASY 3 DEC)
+8. [Delete Node in BST](./Binary%20Search%20Tree/8.md)
 
 
 ## Contributing
