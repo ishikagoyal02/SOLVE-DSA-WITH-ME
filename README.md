@@ -33,6 +33,7 @@ The repository covers a wide range of DSA topics, including but not limited to:
 10. [Binary Search](#binary-search)
 11. [Linked List](#linked-list)
 12. [Binary Search Tree](#binary-search-tree)
+13. [Graph](#graph)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -565,6 +566,10 @@ Feel free to explore the repository and review the solutions to each POTD questi
 8. [Delete Node in BST](./Binary%20Search%20Tree/8.md)
 9. [Invalid BST or not](./Binary%20Search%20Tree/9.md)
 10. [Lowest Common Ancestor of a BST](./Binary%20Search%20Tree/10.md)
+
+## Graph
+1. [BFT](./Graph/1.md)
+2. [DFT](./Graph/2.md)
 
 
 ## Contributing
