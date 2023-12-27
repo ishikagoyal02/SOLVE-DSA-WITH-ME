@@ -319,6 +319,10 @@ DAY 77(9 DEC)<br>
 DAY 78(18 DEC)<br>
 -[Maximum Product Difference Between Two Pairs](./array/23.md) (LEETCODE EASY)
 
+DAY 78(27 DEC)<br>
+-[Anti-Diagonal Traversal of Matrix](./array/25.md) (GFG MEDIUM)
+-[Minimum Time to make rope colorful](./array/24.md) (LEETCODE MEDIUM)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
