@@ -324,6 +324,9 @@ DAY 78(27 DEC)<br>
 -[Anti-Diagonal Traversal of Matrix](./array/25.md) (GFG MEDIUM)
 -[Minimum Time to make rope colorful](./array/24.md) (LEETCODE MEDIUM)
 
+DAY 79(29 DEC)<br>
+-[Check if a string is repetition of its substring of k-length ](./String/16.md) (GFG MEDIUM)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -484,6 +487,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 16. [How Many X's?](./String/14.md) (GFG MEDIUM)
 
 17. [Largest Odd Number in String](./String/15.md)  (LEETCODE EASY)
+
+18. [Check if a string is repetition of its substring of k-length ](./String/16.md) (GFG MEDIUM)
 
 
 
