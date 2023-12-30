@@ -327,6 +327,10 @@ DAY 78(27 DEC)<br>
 DAY 79(29 DEC)<br>
 -[Check if a string is repetition of its substring of k-length ](./String/16.md) (GFG MEDIUM)
 
+DAY 80(30 DEC)<br>
+-[Winner of election](./array/26.md) (GFG EASY)
+-[Redistribute Characters to Make All Strings Equal](./array/27.md) (LEETCODE EASY)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
