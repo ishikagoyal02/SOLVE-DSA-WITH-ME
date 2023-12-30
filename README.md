@@ -575,6 +575,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 ## Graph
 1. [BFT](./Graph/1.md)
 2. [DFT](./Graph/2.md)
+3. [Number of Provinces](./Graph/3.md)
 
 
 ## Contributing
