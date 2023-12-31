@@ -331,6 +331,10 @@ DAY 80(30 DEC)<br>
 -[Winner of election](./array/26.md) (GFG EASY)
 -[Redistribute Characters to Make All Strings Equal](./array/27.md) (LEETCODE EASY)
 
+DAY 81(31 DEC)<br>
+-[New Year Resolution](./Dynamic%20Programming/8.md) (GFG Medium)
+-[Largest string between two equal character](./String/17.md) (LEETCODE EASY)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -494,6 +498,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 18. [Check if a string is repetition of its substring of k-length ](./String/16.md) (GFG MEDIUM)
 
+19. -[Largest string between two equal character](./String/17.md) (LEETCODE EASY)
+
 
 
 ## Heap
@@ -549,6 +555,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 3. [Frog Jump](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Dynamic%20Programming/3.md)
 
 4. [Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md)
+
+5. -[New Year Resolution](./Dynamic%20Programming/8.md) (GFG Medium)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
