@@ -590,6 +590,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 3. [Number of Provinces](./Graph/3.md)
 4. [Rotting Oranges](./Graph/4.md)
 5. [Flood Fill](./Graph/5.md)
+6. [0/1 Matrix](./Graph/6.md)
 
 
 ## Contributing
