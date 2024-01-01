@@ -335,6 +335,11 @@ DAY 81(31 DEC)<br>
 -[New Year Resolution](./Dynamic%20Programming/8.md) (GFG Medium)
 -[Largest string between two equal character](./String/17.md) (LEETCODE EASY)
 
+DAY 82(1 JAN)<br>
+- [Assign Cookies](./Greedy%20Algorithm/5.md) (LEETCODE EASY)
+- [Array Pair Sum Divisibility Problem](./array/28.md) (GFG MEDIUM)
+
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -591,6 +596,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 4. [Rotting Oranges](./Graph/4.md)
 5. [Flood Fill](./Graph/5.md)
 6. [0/1 Matrix](./Graph/6.md)
+7. [Surrounding Region](./Graph/7.md)
 
 
 ## Contributing
