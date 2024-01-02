@@ -341,6 +341,7 @@ DAY 82(1 JAN)<br>
 
 DAY 83(2 JAN)<br>
 - [Largest Sum Subarray of size atleast k](./Sliding%20Window/11.md) (GFG MEDIUM)
+- [Convert an Array into 2D array with conditions](./array/29.md) (LEETCODE MEDIUM)
 
 
 
@@ -381,6 +382,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   30. [Minimize the height 2](./array/21.md) (GFG MEDIUM)
   31. [Count of Matches in Tournament](./Easy/28.md)  (LEETCODE EASY)
   32. [Maximum Product Difference Between Two Pairs](./array/23.md) (LEETCODE EASY)
+  33. [Convert an Array into 2D array with conditions](./array/29.md) (LEETCODE MEDIUM)
 
 
 
