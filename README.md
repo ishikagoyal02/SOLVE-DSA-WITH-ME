@@ -339,6 +339,9 @@ DAY 82(1 JAN)<br>
 - [Assign Cookies](./Greedy%20Algorithm/5.md) (LEETCODE EASY)
 - [Array Pair Sum Divisibility Problem](./array/28.md) (GFG MEDIUM)
 
+DAY 83(2 JAN)<br>
+- [Largest Sum Subarray of size atleast k](./Sliding%20Window/11.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -462,6 +465,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 12.[Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md)
 
 13.[Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
+
+14. [Largest Sum Subarray of size atleast k](./Sliding%20Window/11.md) (GFG MEDIUM)
 
 
 
@@ -597,6 +602,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 5. [Flood Fill](./Graph/5.md)
 6. [0/1 Matrix](./Graph/6.md)
 7. [Surrounding Region](./Graph/7.md)
+8. [Topological Sort](./Graph/8.md)
 
 
 ## Contributing
