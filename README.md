@@ -345,6 +345,7 @@ DAY 83(2 JAN)<br>
 
 DAY 84(3 JAN)<br>
 - [Smallest Window Containing 0,1,2](./Sliding%20Window/12.md) (GFG MEDIUM)
+- [Number of laser beams in a bank](./String/18.md) (LEETCODE MEDIUM)
 
 
 
@@ -517,6 +518,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 18. [Check if a string is repetition of its substring of k-length ](./String/16.md) (GFG MEDIUM)
 
 19. -[Largest string between two equal character](./String/17.md) (LEETCODE EASY)
+
+20. [Number of laser beams in a bank](./String/18.md) (LEETCODE MEDIUM)
 
 
 
