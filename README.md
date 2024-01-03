@@ -343,6 +343,9 @@ DAY 83(2 JAN)<br>
 - [Largest Sum Subarray of size atleast k](./Sliding%20Window/11.md) (GFG MEDIUM)
 - [Convert an Array into 2D array with conditions](./array/29.md) (LEETCODE MEDIUM)
 
+DAY 84(3 JAN)<br>
+- [Smallest Window Containing 0,1,2](./Sliding%20Window/12.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -442,33 +445,36 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 ## Sliding Window
 
-1.[Maximum Sum of Distinct Subarrays With Length K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/1.md)
+1. [Maximum Sum of Distinct Subarrays With Length K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/1.md)
 
-2.[First negative integer in every window of size k](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/First%20negative%20integer%20in%20every%20window%20of%20size%20k/first-negative-integer-in-every-window-of-size-k.cpp)
+2. [First negative integer in every window of size k](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/First%20negative%20integer%20in%20every%20window%20of%20size%20k/first-negative-integer-in-every-window-of-size-k.cpp)
 
-3.[Find All Anagrams in a String](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/3.md)
+3. [Find All Anagrams in a String](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/3.md)
 
-4.[ Sliding Window Maximum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/2.md)
+4. [ Sliding Window Maximum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/2.md)
 
-5.[Subarray Sum Equals K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/4.md)
+5. [Subarray Sum Equals K](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/4.md)
 
-6.[Longest K unique characters substring](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/5.md)
+6. [Longest K unique characters substring](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/5.md)
 
-7.[Longest Substring Without Repeating Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/6.md)
+7. [Longest Substring Without Repeating Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/6.md)
 
-8.[Binary Subarrays With Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/7.md)
+8. [Binary Subarrays With Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/7.md)
 
-9.[Max Consecutive Ones III](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/8.md)
+9. [Max Consecutive Ones III](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/8.md)
 
-10.[Number of Substrings Containing All Three Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/9.md)
+10. [Number of Substrings Containing All Three Characters](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/9.md)
 
-11.[Subarray with given sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/10.md) (1st subarray)
+11. [Subarray with given sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/10.md) (1st subarray)
 
-12.[Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md)
+12. [Minimum Operation to Reduce X to zero](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/18.md)
 
-13.[Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
+13. [Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
 
 14. [Largest Sum Subarray of size atleast k](./Sliding%20Window/11.md) (GFG MEDIUM)
+
+15. [Smallest Window Containing 0,1,2](./Sliding%20Window/12.md) (GFG MEDIUM)
+
 
 
 
