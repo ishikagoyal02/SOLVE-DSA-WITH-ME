@@ -340,12 +340,16 @@ DAY 82(1 JAN)<br>
 - [Array Pair Sum Divisibility Problem](./array/28.md) (GFG MEDIUM)
 
 DAY 83(2 JAN)<br>
-- [Largest Sum Subarray of size atleast k](./Sliding%20Window/11.md) (GFG MEDIUM)
+- [Largest Sum Subarray of size atleast k](./Sliding%20Window/11.md) (GFG MEDIUM)<br>
 - [Convert an Array into 2D array with conditions](./array/29.md) (LEETCODE MEDIUM)
 
 DAY 84(3 JAN)<br>
-- [Smallest Window Containing 0,1,2](./Sliding%20Window/12.md) (GFG MEDIUM)
+- [Smallest Window Containing 0,1,2](./Sliding%20Window/12.md) (GFG MEDIUM)<br>
 - [Number of laser beams in a bank](./String/18.md) (LEETCODE MEDIUM)
+
+DAY 85(4 JAN)<br>
+-[Longest Increasing Subsequence](./Dynamic%20Programming/9.md) (LEETCODE MEDIUM)
+
 
 
 
@@ -577,7 +581,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 4. [Maximum Sum Increasing subsequence](./Dynamic%20Programming/6.md)
 
-5. -[New Year Resolution](./Dynamic%20Programming/8.md) (GFG Medium)
+5. [New Year Resolution](./Dynamic%20Programming/8.md) (GFG Medium)
+
+6. [Longest Increasing Subsequence](./Dynamic%20Programming/9.md) (LEETCODE MEDIUM)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
