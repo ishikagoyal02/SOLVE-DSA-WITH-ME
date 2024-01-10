@@ -348,7 +348,10 @@ DAY 84(3 JAN)<br>
 - [Number of laser beams in a bank](./String/18.md) (LEETCODE MEDIUM)
 
 DAY 85(4 JAN)<br>
--[Longest Increasing Subsequence](./Dynamic%20Programming/9.md) (LEETCODE MEDIUM)
+- [Longest Increasing Subsequence](./Dynamic%20Programming/9.md) (LEETCODE MEDIUM)
+
+DAY 86(10 JAN)<br>
+- [Longest subarray divisible by k](./array/31.md) (GFG MEDIUM)
 
 
 
@@ -391,6 +394,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   31. [Count of Matches in Tournament](./Easy/28.md)  (LEETCODE EASY)
   32. [Maximum Product Difference Between Two Pairs](./array/23.md) (LEETCODE EASY)
   33. [Convert an Array into 2D array with conditions](./array/29.md) (LEETCODE MEDIUM)
+  34. [Longest subarray divisible by k](./array/31.md) (GFG MEDIUM)
 
 
 
