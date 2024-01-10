@@ -352,6 +352,7 @@ DAY 85(4 JAN)<br>
 
 DAY 86(10 JAN)<br>
 - [Longest subarray divisible by k](./array/31.md) (GFG MEDIUM)
+- [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
 
 
 
@@ -449,7 +450,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 14. [Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
 15. [K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP
 16. [Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
-17. -[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
+17. [Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
+18. [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
 
 
 ## Sliding Window
