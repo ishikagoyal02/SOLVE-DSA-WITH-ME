@@ -354,6 +354,9 @@ DAY 86(10 JAN)<br>
 - [Longest subarray divisible by k](./array/31.md) (GFG MEDIUM)
 - [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
 
+DAY 87(11 JAN)<br>
+- [Max Diff between node and ancestor](./Binary%20Tree/19.md) (LEETCODE MEDIUM)
+
 
 
 
@@ -452,6 +455,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 16. [Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)
 17. [Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
 18. [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
+19. [Max Diff between node and ancestor](./Binary%20Tree/19.md) (LEETCODE MEDIUM)
 
 
 ## Sliding Window
