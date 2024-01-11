@@ -355,6 +355,7 @@ DAY 86(10 JAN)<br>
 - [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
 
 DAY 87(11 JAN)<br>
+- [Remove k digits](./Stack/1.md) (GFG MEDIUM)
 - [Max Diff between node and ancestor](./Binary%20Tree/19.md) (LEETCODE MEDIUM)
 
 
