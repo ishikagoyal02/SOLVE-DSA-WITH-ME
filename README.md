@@ -362,6 +362,7 @@ DAY 87(11 JAN)<br>
 
 DAY 88(12 JAN)<br>
 - [Reverse first k digits of queue](./Queue/1.md) (GFG EASY)
+- [Determine if string halves are alike](./String/19.md) (LEETCODE EASY)
 
 
 
@@ -546,6 +547,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 19. -[Largest string between two equal character](./String/17.md) (LEETCODE EASY)
 
 20. [Number of laser beams in a bank](./String/18.md) (LEETCODE MEDIUM)
+
+21. [Determine if string halves are alike](./String/19.md) (LEETCODE EASY)
 
 
 
