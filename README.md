@@ -27,13 +27,15 @@ The repository covers a wide range of DSA topics, including but not limited to:
 4. [Bit Manipulation](#bit-manipulation)
 5. [Binary Tree](#binary-tree)
 6. [Sliding Window](#sliding-window)
-7. [Heap](#heap)
-8. [Greedy Algorithm](#greedy)
-9. [Dynamic Programming](#dynamic-programming)
-10. [Binary Search](#binary-search)
-11. [Linked List](#linked-list)
-12. [Binary Search Tree](#binary-search-tree)
-13. [Graph](#graph)
+7. [Stack](#stack)
+8. [Queue](#queue)
+9. [Heap](#heap)
+10. [Greedy Algorithm](#greedy)
+11. [Dynamic Programming](#dynamic-programming)
+12. [Binary Search](#binary-search)
+13. [Linked List](#linked-list)
+14. [Binary Search Tree](#binary-search-tree)
+15. [Graph](#graph)
    
   Feel free to explore the repository and delve into the topics that interest you the most.
 
@@ -358,6 +360,9 @@ DAY 87(11 JAN)<br>
 - [Remove k digits](./Stack/1.md) (GFG MEDIUM)
 - [Max Diff between node and ancestor](./Binary%20Tree/19.md) (LEETCODE MEDIUM)
 
+DAY 88(12 JAN)<br>
+- [Reverse first k digits of queue](./Queue/1.md) (GFG EASY)
+
 
 
 
@@ -492,7 +497,13 @@ Feel free to explore the repository and review the solutions to each POTD questi
 15. [Smallest Window Containing 0,1,2](./Sliding%20Window/12.md) (GFG MEDIUM)
 
 
+## Stack
 
+1. [Remove k digits](./Stack/1.md) (GFG MEDIUM)
+
+## Queue
+
+1. [Reverse first k digits of queue](./Queue/1.md) (GFG EASY)
 
 ## String
 
