@@ -366,6 +366,7 @@ DAY 88(12 JAN)<br>
 
 DAY 89(13 JAN)<br>
 - [Minimum Number of Steps to Make Two Strings Anagram](./String/20.md) (LEETCODE EASY)
+- [Insertion Sort for Singly Linked List](./Linked%20List/6.md) (GFG MEDIUM)
 
 
 
@@ -628,6 +629,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 4. [Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
 5. [Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
 6. [Merge 2 sorted linked list in reverse order](./Linked%20List/5.md)
+7. [Insertion Sort for Singly Linked List](./Linked%20List/6.md) (GFG MEDIUM)
 
 
 ## Binary Search Tree
