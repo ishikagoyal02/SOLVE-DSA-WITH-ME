@@ -370,6 +370,7 @@ DAY 89(13 JAN)<br>
 
 DAY 90(14 JAN)<br>
 - [Find duplicate rows in a binary matrix](E:\GFG-SOLUTIONS\String\20.md) (GFG MEDIUM)
+- [Determine if Two Strings Are Close](./String/22.md)
 
 
 
@@ -560,6 +561,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 22. [Minimum Number of Steps to Make Two Strings Anagram](./String/21.md) (LEETCODE EASY)
 
 23. [Find duplicate rows in a binary matrix](E:\GFG-SOLUTIONS\String\20.md)
+
+24. [Determine if Two Strings Are Close](./String/22.md)
 
 
 
