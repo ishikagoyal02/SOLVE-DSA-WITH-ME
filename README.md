@@ -365,8 +365,11 @@ DAY 88(12 JAN)<br>
 - [Determine if string halves are alike](./String/19.md) (LEETCODE EASY)
 
 DAY 89(13 JAN)<br>
-- [Minimum Number of Steps to Make Two Strings Anagram](./String/20.md) (LEETCODE EASY)
+- [Minimum Number of Steps to Make Two Strings Anagram](./String/21.md) (LEETCODE EASY)
 - [Insertion Sort for Singly Linked List](./Linked%20List/6.md) (GFG MEDIUM)
+
+DAY 90(14 JAN)<br>
+- [Find duplicate rows in a binary matrix](E:\GFG-SOLUTIONS\String\20.md) (GFG MEDIUM)
 
 
 
@@ -554,7 +557,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 21. [Determine if string halves are alike](./String/19.md) (LEETCODE EASY)
 
-22. [Minimum Number of Steps to Make Two Strings Anagram](./String/20.md) (LEETCODE EASY)
+22. [Minimum Number of Steps to Make Two Strings Anagram](./String/21.md) (LEETCODE EASY)
+
+23. [Find duplicate rows in a binary matrix](E:\GFG-SOLUTIONS\String\20.md)
 
 
 
