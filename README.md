@@ -372,6 +372,9 @@ DAY 90(14 JAN)<br>
 - [Find duplicate rows in a binary matrix](E:\GFG-SOLUTIONS\String\20.md) (GFG MEDIUM)
 - [Determine if Two Strings Are Close](./String/22.md)
 
+DAY 91(15 JAN)<br>
+- [Grinding Geek](./Dynamic%20Programming/11.md) (GFG MEDIUM)
+
 
 
 
@@ -623,6 +626,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 5. [New Year Resolution](./Dynamic%20Programming/8.md) (GFG Medium)
 
 6. [Longest Increasing Subsequence](./Dynamic%20Programming/9.md) (LEETCODE MEDIUM)
+
+7. [Grinding Geek](./Dynamic%20Programming/11.md) (GFG MEDIUM)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
