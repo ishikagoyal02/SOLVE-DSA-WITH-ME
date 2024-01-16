@@ -376,6 +376,9 @@ DAY 91(15 JAN)<br>
 - [Grinding Geek](./Dynamic%20Programming/11.md) (GFG MEDIUM)
 - [Find Players with zero or one losses](./array/32.md)  (LEETCODE MEDIUM)
 
+DAY 92(16 JAN)<br>
+- [ Insert Delete GetRandom O(1)](./Medium/36.md) (LEETCODE MEDIUM)
+
 
 
 
