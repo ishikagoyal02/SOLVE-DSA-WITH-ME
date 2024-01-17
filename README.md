@@ -379,6 +379,9 @@ DAY 91(15 JAN)<br>
 DAY 92(16 JAN)<br>
 - [ Insert Delete GetRandom O(1)](./Medium/36.md) (LEETCODE MEDIUM)
 
+DAY 93(17 JAN)<br>
+- [Unique number of ocurrences](./array/33.md) (LEETCODE EASY)
+
 
 
 
@@ -422,6 +425,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   33. [Convert an Array into 2D array with conditions](./array/29.md) (LEETCODE MEDIUM)
   34. [Longest subarray divisible by k](./array/31.md) (GFG MEDIUM)
   35. [Find Players with zero or one losses](./array/32.md)  (LEETCODE MEDIUM)
+  36. [Unique number of ocurrences](./array/33.md) (LEETCODE EASY)
 
 
 
