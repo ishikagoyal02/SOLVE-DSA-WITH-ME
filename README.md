@@ -680,6 +680,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 7. [Surrounding Region](./Graph/7.md)
 8. [Topological Sort](./Graph/8.md)
 9. [Number of enclaves](./Graph/9.md)
+10. [Word Ladder](./Graph/10.md)
 
 
 ## Contributing
