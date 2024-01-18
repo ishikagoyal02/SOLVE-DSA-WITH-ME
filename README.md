@@ -383,6 +383,9 @@ DAY 93(17 JAN)<br>
 - [Unique number of ocurrences](./array/33.md) (LEETCODE EASY)
 - [Permutation](./Recursion/16.md) (GFG MEDIUM)
 
+DAY 94(18 JAN)<br>
+- [Climbing stairs](./Dynamic%20Programming/2.md) (LEETCODE EASY)
+
 
 
 
