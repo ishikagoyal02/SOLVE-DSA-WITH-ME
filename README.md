@@ -221,7 +221,6 @@ Day 48(25 OCTOBER)<br>
 Day 49(26 OCTOBER)<br>
 - [Minimum Operation](./Recursion/20.md) (GFG Easy)
 
-
 Day 50(2 NOV)<br>
 - [Minimum Distance between two numbers](./array/15.md) (GFG Easy)
 
@@ -386,6 +385,9 @@ DAY 93(17 JAN)<br>
 DAY 94(18 JAN)<br>
 - [Climbing stairs](./Dynamic%20Programming/2.md) (LEETCODE EASY)
 
+DAY 95(19 JAN)<br>
+- [Top k numbers in a stream](./array/34.md) (GFG MEDIUM)
+
 
 
 
@@ -430,6 +432,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   34. [Longest subarray divisible by k](./array/31.md) (GFG MEDIUM)
   35. [Find Players with zero or one losses](./array/32.md)  (LEETCODE MEDIUM)
   36. [Unique number of ocurrences](./array/33.md) (LEETCODE EASY)
+  37. [Top k numbers in a stream](./array/34.md) (GFG MEDIUM)
 
 
 
