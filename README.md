@@ -388,6 +388,9 @@ DAY 94(18 JAN)<br>
 DAY 95(19 JAN)<br>
 - [Top k numbers in a stream](./array/34.md) (GFG MEDIUM)
 
+DAY 96(20 JAN)<br>
+- [Distribute Coins in a binary tree] (GFG MEDIUM)
+
 
 
 
@@ -490,6 +493,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 17. [Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
 18. [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
 19. [Max Diff between node and ancestor](./Binary%20Tree/19.md) (LEETCODE MEDIUM)
+20. [Distribute Coins in a binary tree] (GFG MEDIUM)
 
 
 ## Sliding Window
