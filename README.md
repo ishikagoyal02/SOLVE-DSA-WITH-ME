@@ -391,6 +391,9 @@ DAY 95(19 JAN)<br>
 DAY 96(20 JAN)<br>
 - [Distribute Coins in a binary tree] (GFG MEDIUM)
 
+DAY 97(21 JAN)<br>
+- [House Robbing](./Dynamic%20Programming/12.md) (LEETCODE MEDIUM)
+
 
 
 
@@ -648,6 +651,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 6. [Longest Increasing Subsequence](./Dynamic%20Programming/9.md) (LEETCODE MEDIUM)
 
 7. [Grinding Geek](./Dynamic%20Programming/11.md) (GFG MEDIUM)
+
+8. [House Robbing](./Dynamic%20Programming/12.md) (LEETCODE MEDIUM)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
