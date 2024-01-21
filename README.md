@@ -691,9 +691,11 @@ Feel free to explore the repository and review the solutions to each POTD questi
 5. [Flood Fill](./Graph/5.md)
 6. [0/1 Matrix](./Graph/6.md)
 7. [Surrounding Region](./Graph/7.md)
-8. [Topological Sort](./Graph/8.md)
+8. [Topological Sort (DFS) /Kahn's Algoithm(BFS)](./Graph/8.md)
 9. [Number of enclaves](./Graph/9.md)
-10. [Word Ladder](./Graph/10.md)
+10. [Word Ladder 1](./Graph/10.md)
+11. [Detect cycle in directed graph](./Graph/11.md)
+12. [Detect cycle in undirected graph](./Graph/12.md)
 
 
 ## Contributing
