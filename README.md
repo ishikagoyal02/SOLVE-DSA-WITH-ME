@@ -393,6 +393,7 @@ DAY 96(20 JAN)<br>
 
 DAY 97(21 JAN)<br>
 - [House Robbing](./Dynamic%20Programming/12.md) (LEETCODE MEDIUM)
+- [Vertex Cover](./array/35.md) (GFG HARD)
 
 
 
