@@ -395,6 +395,9 @@ DAY 97(21 JAN)<br>
 - [House Robbing](./Dynamic%20Programming/12.md) (LEETCODE MEDIUM)
 - [Vertex Cover](./array/35.md) (GFG HARD)
 
+DAY 98(22 JAN)<br>
+- [Set Mismatch](./array/36.md) (LEETCODE EASY)
+
 
 
 
@@ -440,6 +443,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   35. [Find Players with zero or one losses](./array/32.md)  (LEETCODE MEDIUM)
   36. [Unique number of ocurrences](./array/33.md) (LEETCODE EASY)
   37. [Top k numbers in a stream](./array/34.md) (GFG MEDIUM)
+  38. [Set Mismatch](./array/36.md) (LEETCODE EASY)
 
 
 
