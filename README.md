@@ -698,6 +698,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 12. [Detect cycle in undirected graph](./Graph/12.md)
 13. [Course Schedule](./Graph/13.md)
 14. [Course Schedule 2](./Graph/14.md)
+15. [Find Eventual Safe State](./Graph/15.md)
 
 
 ## Contributing
