@@ -399,6 +399,8 @@ DAY 98(22 JAN)<br>
 - [Set Mismatch](./array/36.md) (LEETCODE EASY)
 - [Paths from root with a specified sum](./Binary%20Search%20Tree/11.md) (GFG MEDIUM)
 
+DAY 99(23 JAN)<br>
+- [Course Schedule](./Graph/13.md)  (GFG MEDIUM)
 
 
 
