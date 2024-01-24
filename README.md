@@ -389,7 +389,7 @@ DAY 95(19 JAN)<br>
 - [Top k numbers in a stream](./array/34.md) (GFG MEDIUM)
 
 DAY 96(20 JAN)<br>
-- [Distribute Coins in a binary tree] (GFG MEDIUM)
+- [Distribute Coins in a binary tree](./Binary%20Tree/22.md) (GFG MEDIUM)
 
 DAY 97(21 JAN)<br>
 - [House Robbing](./Dynamic%20Programming/12.md) (LEETCODE MEDIUM)
@@ -401,6 +401,9 @@ DAY 98(22 JAN)<br>
 
 DAY 99(23 JAN)<br>
 - [Course Schedule](./Graph/13.md)  (GFG MEDIUM)
+
+DAY 100(24  JAN)<br>
+- [Is it a tree?](./Graph/18.md) (GFG MEDIUM)
 
 
 
@@ -504,7 +507,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 17. [Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)
 18. [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
 19. [Max Diff between node and ancestor](./Binary%20Tree/19.md) (LEETCODE MEDIUM)
-20. [Distribute Coins in a binary tree] (GFG MEDIUM)
+20. [Distribute Coins in a binary tree]() (GFG MEDIUM)
 
 
 ## Sliding Window
@@ -707,6 +710,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 14. [Course Schedule 2](./Graph/14.md)
 15. [Find Eventual Safe State](./Graph/15.md)
 16. [Shortest Path in undirected graph](./Graph/16.md)
+17. [Is it a tree?](./Graph/18.md) (GFG MEDIUM)
 
 
 ## Contributing
