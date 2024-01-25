@@ -407,6 +407,7 @@ DAY 100(24  JAN)<br>
 
 DAY 101(25 JAN)<br>
 - [Shortest Prime Path](./Graph/19.md) (GFG MEDIUM)
+- [Longest Common Subsequence](./Dynamic%20Programming/13.md) (LEETCODE MEDIUM)
 
 
 
@@ -667,6 +668,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 7. [Grinding Geek](./Dynamic%20Programming/11.md) (GFG MEDIUM)
 
 8. [House Robbing](./Dynamic%20Programming/12.md) (LEETCODE MEDIUM)
+
+9. [Longest Common Subsequence](./Dynamic%20Programming/13.md) (LEETCODE MEDIUM)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
