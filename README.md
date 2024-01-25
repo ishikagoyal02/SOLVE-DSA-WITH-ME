@@ -405,6 +405,9 @@ DAY 99(23 JAN)<br>
 DAY 100(24  JAN)<br>
 - [Is it a tree?](./Graph/18.md) (GFG MEDIUM)
 
+DAY 101(25 JAN)<br>
+- [Shortest Prime Path](./Graph/19.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -711,6 +714,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 15. [Find Eventual Safe State](./Graph/15.md)
 16. [Shortest Path in undirected graph](./Graph/16.md)
 17. [Is it a tree?](./Graph/18.md) (GFG MEDIUM)
+18. [Shortest Prime Path](./Graph/19.md) (GFG MEDIUM)
 
 
 ## Contributing
