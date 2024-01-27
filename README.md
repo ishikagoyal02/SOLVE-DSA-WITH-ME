@@ -409,6 +409,9 @@ DAY 101(25 JAN)<br>
 - [Shortest Prime Path](./Graph/19.md) (GFG MEDIUM)
 - [Longest Common Subsequence](./Dynamic%20Programming/13.md) (LEETCODE MEDIUM)
 
+DAY 102(26 JAN)<br>
+- [Fractional Knapsack](./greedy/6.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
