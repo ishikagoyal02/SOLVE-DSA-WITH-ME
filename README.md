@@ -487,13 +487,14 @@ Feel free to explore the repository and review the solutions to each POTD questi
   
 ## Bit Manipulation
 
-1. [Swap Two Numbers](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation/1.md)
-2. [XOR Operation](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/BitManipulation/2.md)
-3. [Check whether K-th bit is set or not](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/BitManipulation/3.md)
+1. [Swap Two Numbers](./BitManipulation/1.md)
+2. [XOR Operation](./BitManipulation/2.md)
+3. [Check whether K-th bit is set or not](./BitManipulation/3.md)
 4. [Power Of Four](./BitManipulation/5.md)
 5. [Number of 1 Bits](./BitManipulation/6.md) (LEETCODE EASY)
 6. [ODD/EVEN](./BitManipulation/7.md)
 7. [Power of 2](./BitManipulation/4.md)
+8. [Set the rightmost unset bit](./BitManipulation/8.md)
 
 ## Binary Tree
 
