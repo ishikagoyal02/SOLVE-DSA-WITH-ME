@@ -490,6 +490,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 4. [Power Of Four](./BitManipulation/5.md)
 5. [Number of 1 Bits](./BitManipulation/6.md) (LEETCODE EASY)
 6. [ODD/EVEN](./BitManipulation/7.md)
+7. [Power of 2](./BitManipulation/4.md)
 
 ## Binary Tree
 
