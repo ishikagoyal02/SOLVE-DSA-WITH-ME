@@ -496,6 +496,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 7. [Power of 2](./BitManipulation/4.md)
 8. [Set the rightmost unset bit](./BitManipulation/8.md)
 9. [Bit Difference](./BitManipulation/9.md)
+10. [Single Number](./BitManipulation/10.md)
 
 ## Binary Tree
 
