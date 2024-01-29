@@ -412,6 +412,9 @@ DAY 101(25 JAN)<br>
 DAY 102(26 JAN)<br>
 - [Fractional Knapsack](./greedy/6.md) (GFG MEDIUM)
 
+DAY 103(27 JAN)<br>
+- [Implement Queue using Stack](./Stack/2.md)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
