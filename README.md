@@ -729,6 +729,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 16. [Shortest Path in undirected graph](./Graph/16.md)
 17. [Is it a tree?](./Graph/18.md) (GFG MEDIUM)
 18. [Shortest Prime Path](./Graph/19.md) (GFG MEDIUM)
+19. [Dijsktra](./Graph/20.md)
 
 
 ## Contributing
