@@ -616,6 +616,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 24. [Determine if Two Strings Are Close](./String/22.md)
 
+25. [Longest Common Subsequence of 3 string](./Dynamic%20Programming/14.md) (GFG MEDIUM)
+
 
 
 ## Heap
@@ -680,7 +682,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 8. [House Robbing](./Dynamic%20Programming/12.md) (LEETCODE MEDIUM)
 
-9. [Longest Common Subsequence](./Dynamic%20Programming/13.md) (LEETCODE MEDIUM)
+9. [Longest Common Subsequence from 2 string](./Dynamic%20Programming/13.md) (LEETCODE MEDIUM)
+
+10. [Longest Common Subsequence of 3 string](./Dynamic%20Programming/14.md) (GFG MEDIUM)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
