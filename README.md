@@ -419,6 +419,9 @@ DAY 104(30 JAN)<br>
 - [Evaluate Reverse Polish Notation](./Stack/3.md) (LEETCODE MEDIUM)
 - [Longest Common Subsequence of 3 string](./Dynamic%20Programming/14.md) (GFG MEDIUM)
 
+DAY 105(31 JAN)<br>
+- [Dailt Temperatures](./Stack/4.md) (LEETCODE MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -567,6 +570,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 1. [Remove k digits](./Stack/1.md) (GFG MEDIUM)
 2. [Implement queue using stack](./Stack/2.md) 
 3. [Evaluate Reverse Polish Notation](./Stack/3.md) (LEETCODE MEDIUM)
+4. [Dailt Temperatures](./Stack/4.md) (LEETCODE MEDIUM)
 
 ## Queue
 
