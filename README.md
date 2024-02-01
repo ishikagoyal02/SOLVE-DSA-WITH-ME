@@ -424,6 +424,7 @@ DAY 105(31 JAN)<br>
 
 DAY 106(1 FEB)<br>
 - [Pangram Check](./String/23.md) (GFG EASY)
+- [Divide Array Into Arrays With Max Difference](./Greedy%20Algorithm/9.md) (LEETCODE MEDIUM)
 
 
 
@@ -677,6 +678,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 7. [Lemonade Change](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/tree/main/Greedy%20Algorithm/7.md)
 
 8. [Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
+
+9. [Divide Array Into Arrays With Max Difference](./Greedy%20Algorithm/9.md) (LEETCODE MEDIUM)
 
 
 ## Dynamic Programming
