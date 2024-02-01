@@ -422,6 +422,9 @@ DAY 104(30 JAN)<br>
 DAY 105(31 JAN)<br>
 - [Dailt Temperatures](./Stack/4.md) (LEETCODE MEDIUM)
 
+DAY 106(1 FEB)<br>
+- [Pangram Check](./String/23.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -627,6 +630,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 24. [Determine if Two Strings Are Close](./String/22.md)
 
 25. [Longest Common Subsequence of 3 string](./Dynamic%20Programming/14.md) (GFG MEDIUM)
+
+26. [Pangram Check](./String/23.md) (GFG EASY)
 
 
 
