@@ -426,6 +426,9 @@ DAY 106(1 FEB)<br>
 - [Pangram Check](./String/23.md) (GFG EASY)
 - [Divide Array Into Arrays With Max Difference](./Greedy%20Algorithm/9.md) (LEETCODE MEDIUM)
 
+DAY 107(2 FEB)<br>
+- [Implement Atoi](./Recursion/22.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -494,10 +497,11 @@ Feel free to explore the repository and review the solutions to each POTD questi
    16. [Permutation](./Recursion/16.md)
    17. [Permutation2](./Recursion/17.md)
    18. [Count Good Numbers](./Recursion/18.md)
-   19. -[Power Of Four](./BitManipulation/5.md)
-   20. -[K-th Symbol in Grammar](./Recursion/19.md)
-   21. -[Minimum Operation](./Recursion/20.md)
-   22. -[Print Pattern](./Recursion/21.md) (GFG EASY)
+   19. [Power Of Four](./BitManipulation/5.md)
+   20. [K-th Symbol in Grammar](./Recursion/19.md)
+   21. [Minimum Operation](./Recursion/20.md)
+   22. [Print Pattern](./Recursion/21.md) (GFG EASY)
+   23. [Implement Atoi](./Recursion/22.md) (GFG MEDIUM)
   
 ## Bit Manipulation
 
