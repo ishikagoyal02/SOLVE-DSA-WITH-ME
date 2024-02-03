@@ -429,6 +429,9 @@ DAY 106(1 FEB)<br>
 DAY 107(2 FEB)<br>
 - [Implement Atoi](./Recursion/22.md) (GFG MEDIUM)
 
+DAY 108(3 FEB)<br>
+- [Decimal Equivalent of Binary Linked List](./Linked%20List/7.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -722,6 +725,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 5. [Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
 6. [Merge 2 sorted linked list in reverse order](./Linked%20List/5.md)
 7. [Insertion Sort for Singly Linked List](./Linked%20List/6.md) (GFG MEDIUM)
+8. [Decimal Equivalent of Binary Linked List](./Linked%20List/7.md) (GFG EASY)
 
 
 ## Binary Search Tree
