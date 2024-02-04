@@ -250,30 +250,30 @@ Day 58(10 NOV)<br>
 - [Number following a pattern](./String/9.md) (GFG MEDIUM)
 
 DAY 59(11 NOV)<br>
--[Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
+- [Check if String is rotated by 2 places](./String/11.md) (GFG EASY)
 
 DAY 60(17 NOV)<br>
--[Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)<br>
--[Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
+- [Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)<br>
+- [Minimum Maximum Pair Sum in Array](./Medium/29.md) (LEETCODE MEDIUM)
 
 Day 61(18 NOV)<br>
--[Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
+- [Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
 
 DAY 62(19 NOV)<br>
--[Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)<br>
--[Reduction Operations to Make the Array Elements Equal](./Medium/30.md) (LEETCODE MEDIUM)
+- [Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)<br>
+- [Reduction Operations to Make the Array Elements Equal](./Medium/30.md) (LEETCODE MEDIUM)
 
 DAY 63(20 NOV)<br>
--[K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP<br>
--[Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
+- [K Sum Path](./Binary%20Tree/15.md) (GFG MEDIUM) IMP<br>
+- [Minimum Amount of Time to Collect Garbage](./Medium/31.md) (LEETCODE MEDIUM)
 
 DAY 64(21 NOV)<br>
--[Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)<br>
--[Count Nice Pairs in an Array](./Medium/32.md) (LEETCODE MEDIUM)
+- [Determine if Two Trees are identical](./Binary%20Tree/16.md) (GFG EASY)<br>
+- [Count Nice Pairs in an Array](./Medium/32.md) (LEETCODE MEDIUM)
 
 DAY 65(22 NOV)<br>
--[Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)<br>
--[Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
+- [Symmetric Tree](./Binary%20Tree/17.md) (GFG EASY)<br>
+- [Diagonal Traverse 2](./Medium/33.md) (LEETCODE MEDIUM)
 
 DAY 66(24 NOV)<br>
 - [Pascal Triangle](./Easy/26.md) (GFG EASY)<br>
