@@ -432,6 +432,9 @@ DAY 107(2 FEB)<br>
 DAY 108(3 FEB)<br>
 - [Decimal Equivalent of Binary Linked List](./Linked%20List/7.md) (GFG EASY)
 
+DAY 109(4 FEB)<br>
+- [First Unique Character in a String](./String/24.md) (LEETCODE EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -640,6 +643,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 25. [Longest Common Subsequence of 3 string](./Dynamic%20Programming/14.md) (GFG MEDIUM)
 
 26. [Pangram Check](./String/23.md) (GFG EASY)
+
+27. [First Unique Character in a String](./String/24.md) (LEETCODE EASY)
 
 
 
