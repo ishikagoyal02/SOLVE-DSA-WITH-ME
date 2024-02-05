@@ -4,7 +4,7 @@
 
 <br>
 
-This repository serves as a collection of Data Structure and Algorithm (DSA) questions that I have solved. It is organized by different topics to help you navigate and practice specific problem sets. By solving these questions, I aim to strengthen my understanding of DSA concepts and improve my problem-solving skills.
+This repository serves as a collection of Data Structure and Algorithm (DSA) questions that I have solved. It is organized by different topics to help you navigate and practice specific problem sets. By solving these questions, I aim to strengthen my understanding of DSA concepts and improve my problem-solving skills..
 
 ## Table of Contents
 
