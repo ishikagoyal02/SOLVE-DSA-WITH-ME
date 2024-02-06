@@ -436,6 +436,9 @@ DAY 109(4 FEB)<br>
 - [First Unique Character in a String](./String/24.md) (LEETCODE EASY)
 - [Sorted insert for circular linked list](./Linked%20List/8.md) (GFG EASY)
 
+DAY 110(5 FEB)<br>
+- [Count the nodes at distance K from leaf](./Binary%20Tree/23.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -545,6 +548,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 18. [Amount of time for binary tree to be infected](./Binary%20Tree/18.md) (LEETCODE MEDIUM)
 19. [Max Diff between node and ancestor](./Binary%20Tree/19.md) (LEETCODE MEDIUM)
 20. [Distribute Coins in a binary tree]() (GFG MEDIUM)
+21. [Count the nodes at distance K from leaf](./Binary%20Tree/23.md) (GFG MEDIUM)
 
 
 ## Sliding Window
