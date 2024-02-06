@@ -434,6 +434,7 @@ DAY 108(3 FEB)<br>
 
 DAY 109(4 FEB)<br>
 - [First Unique Character in a String](./String/24.md) (LEETCODE EASY)
+- [Sorted insert for circular linked list](./Linked%20List/8.md) (GFG EASY)
 
 
 
@@ -731,6 +732,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 6. [Merge 2 sorted linked list in reverse order](./Linked%20List/5.md)
 7. [Insertion Sort for Singly Linked List](./Linked%20List/6.md) (GFG MEDIUM)
 8. [Decimal Equivalent of Binary Linked List](./Linked%20List/7.md) (GFG EASY)
+9. [Sorted insert for circular linked list](./Linked%20List/8.md) (GFG EASY)
 
 
 ## Binary Search Tree
