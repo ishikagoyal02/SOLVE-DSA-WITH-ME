@@ -440,6 +440,9 @@ DAY 110(5 FEB)<br>
 - [Count the nodes at distance K from leaf](./Binary%20Tree/23.md) (GFG MEDIUM)
 - [Group Anagrams](./array/37.md) (LEETCODE MEDIUM)
 
+DAY 111(6 FEB)<br>
+- [Sort Characters by Frequency](./Heap/10.md) (LEETCODE MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -657,26 +660,28 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 ## Heap
 
-1.[Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/) <br>
-2.[Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md)
+1. [Relative Ranks](https://leetcode.com/problems/relative-ranks/submissions/980230449/) <br>
+2. [Kth Largest Element in an Array](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/1.md)
 
-3.[Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md)
+3. [Kth smallest element](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/2.md)
 
-4.[Is Binary Tree Heap?](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/3.md)
+4. [Is Binary Tree Heap?](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/3.md)
 
-5.[Merge two binary Max heaps](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/4.md)
+5. [Merge two binary Max heaps](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/4.md)
 
-6 [Minimum Cost Of ropes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/9.md)
+6.  [Minimum Cost Of ropes](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/9.md)
 
-7.[BST to max heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/6.md) (USE INORDER AND POSTORDER TRAVERSAL)
+7. [BST to max heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/6.md) (USE INORDER AND POSTORDER TRAVERSAL)
 
-8.[Does array represent Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Basic/Does%20array%20represent%20Heap/does-array-represent-heap.cpp)
+8. [Does array represent Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Basic/Does%20array%20represent%20Heap/does-array-represent-heap.cpp)
 
-9.[Convert Min heap into max Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/7.md)
+9. [Convert Min heap into max Heap](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Heap/7.md)
 
-10.[Sort a array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Heap/8.md)
+10. [Sort a array](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Heap/8.md)
 
-11.[Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
+11. [Count Number of Homogenous Substrings](./String/9.md) (LEETCODE MEDIUM)
+
+12. [Sort Characters by Frequency](./Heap/10.md) (LEETCODE MEDIUM)
 
 
 
