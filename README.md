@@ -444,6 +444,9 @@ DAY 111(6 FEB)<br>
 - [Sort Characters by Frequency](./Heap/10.md) (LEETCODE MEDIUM)
 - [Min between 2 given nodes](./Binary%20Tree/24.md) (GFG MEDIUM)
 
+DAY 112(7 FEB)<br>
+- [Check for Children Sum Property in a Binary Tree](./Binary%20Tree/25.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -556,6 +559,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 20. [Distribute Coins in a binary tree]() (GFG MEDIUM)
 21. [Count the nodes at distance K from leaf](./Binary%20Tree/23.md) (GFG MEDIUM)
 22. [Min between 2 given nodes](./Binary%20Tree/24.md) (GFG MEDIUM)
+23. [Check for Children Sum Property in a Binary Tree](./Binary%20Tree/25.md) (GFG MEDIUM)
 
 
 ## Sliding Window
