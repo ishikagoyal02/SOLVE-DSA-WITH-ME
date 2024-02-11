@@ -448,6 +448,9 @@ DAY 111(6 FEB)<br>
 DAY 112(7 FEB)<br>
 - [Check for Children Sum Property in a Binary Tree](./Binary%20Tree/25.md) (GFG MEDIUM)
 
+DAY 113(11 FEB)<br>
+- [Recamans Sequence](./array/38.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
