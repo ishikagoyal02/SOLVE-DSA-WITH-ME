@@ -734,6 +734,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 10. [Longest Common Subsequence of 3 string](./Dynamic%20Programming/14.md) (GFG MEDIUM)
 
+11. [Plaindrome Substring](./Dynamic%20Programming/15.md) 
+
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
 
