@@ -451,6 +451,9 @@ DAY 112(7 FEB)<br>
 DAY 113(11 FEB)<br>
 - [Recamans Sequence](./array/38.md) (GFG EASY)
 
+DAY 114(12 FEB)<br>
+- [Reursive Sequence](./array/39.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -497,6 +500,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   37. [Top k numbers in a stream](./array/34.md) (GFG MEDIUM)
   38. [Set Mismatch](./array/36.md) (LEETCODE EASY)
   39. [Group Anagrams](./array/37.md) (LEETCODE MEDIUM)
+  40. [Reursive Sequence](./array/39.md) (GFG EASY)
 
 
 
