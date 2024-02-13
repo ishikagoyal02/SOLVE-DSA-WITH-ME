@@ -454,6 +454,9 @@ DAY 113(11 FEB)<br>
 DAY 114(12 FEB)<br>
 - [Reursive Sequence](./array/39.md) (GFG EASY)
 
+DAY 115(13 FEB)<br>
+- [Find First Palindrome String in array](./array/40.md) (LEETCODE EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -501,6 +504,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   38. [Set Mismatch](./array/36.md) (LEETCODE EASY)
   39. [Group Anagrams](./array/37.md) (LEETCODE MEDIUM)
   40. [Reursive Sequence](./array/39.md) (GFG EASY)
+  41. [Find First Palindrome String in array](./array/40.md) (LEETCODE EASY)
 
 
 
