@@ -458,6 +458,9 @@ DAY 115(13 FEB)<br>
 - [Find First Palindrome String in array](./array/40.md) (LEETCODE EASY)
 - [Clone undirected graph](./Graph/21.md) (GFG MEDIUM)
 
+DAY 116(14 FEB)<br>
+- [Rearrange Array Elements by Sign](./array/41.md) (LEETCODE MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -506,6 +509,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   39. [Group Anagrams](./array/37.md) (LEETCODE MEDIUM)
   40. [Reursive Sequence](./array/39.md) (GFG EASY)
   41. [Find First Palindrome String in array](./array/40.md) (LEETCODE EASY)
+  42. [Rearrange Array Elements by Sign](./array/41.md) (LEETCODE MEDIUM)
 
 
 
