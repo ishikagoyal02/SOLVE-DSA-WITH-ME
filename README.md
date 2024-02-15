@@ -461,6 +461,9 @@ DAY 115(13 FEB)<br>
 DAY 116(14 FEB)<br>
 - [Rearrange Array Elements by Sign](./array/41.md) (LEETCODE MEDIUM)
 
+DAY 117(15 FEB)<br>
+- [Find the Polgon with largest perimeter](./array/43.md) (LEETCODE MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -510,6 +513,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   40. [Reursive Sequence](./array/39.md) (GFG EASY)
   41. [Find First Palindrome String in array](./array/40.md) (LEETCODE EASY)
   42. [Rearrange Array Elements by Sign](./array/41.md) (LEETCODE MEDIUM)
+  43. [Find the Polgon with largest perimeter](./array/43.md) (LEETCODE MEDIUM)
 
 
 
