@@ -618,6 +618,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 15. [Smallest Window Containing 0,1,2](./Sliding%20Window/12.md) (GFG MEDIUM)
 
+16. [Count the number of incremovable subarrays 1](./Sliding%20Window/13.md)
+
 
 ## Stack
 
