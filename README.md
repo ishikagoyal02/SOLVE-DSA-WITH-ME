@@ -467,6 +467,9 @@ DAY 117(15 FEB)<br>
 DAY 118(16 FEB)<br>
 - [Flaten BST](./array/12.md) (GFG MEDIUM)
 
+DAY 119(17 FEB)<br>
+- [Furthest Building You can Reach](./Greedy%20Algorithm/10.md) (LEETCODE MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -736,6 +739,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 8. [Eliminate Maximum Number of Monsters](./Greedy%20Algorithm/8.md) (LEETCODE Medium)
 
 9. [Divide Array Into Arrays With Max Difference](./Greedy%20Algorithm/9.md) (LEETCODE MEDIUM)
+
+10. [Furthest Building You can Reach](./Greedy%20Algorithm/10.md) (LEETCODE MEDIUM)
 
 
 ## Dynamic Programming
