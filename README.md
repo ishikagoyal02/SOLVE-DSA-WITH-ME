@@ -470,6 +470,9 @@ DAY 118(16 FEB)<br>
 DAY 119(17 FEB)<br>
 - [Furthest Building You can Reach](./Greedy%20Algorithm/10.md) (LEETCODE MEDIUM)
 
+DAY 120(18 FEB)<br>
+- [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -797,6 +800,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 9. [Invalid BST or not](./Binary%20Search%20Tree/9.md)
 10. [Lowest Common Ancestor of a BST](./Binary%20Search%20Tree/10.md)
 11. [Flaten BST](./array/12.md) (GFG MEDIUM)
+12. [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
 
 ## Graph
 1. [BFT](./Graph/1.md)
