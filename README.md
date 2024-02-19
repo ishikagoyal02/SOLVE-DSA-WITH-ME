@@ -473,6 +473,9 @@ DAY 119(17 FEB)<br>
 DAY 120(18 FEB)<br>
 - [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
 
+DAY 121(19 Feb)<br>
+-[Game with String](./array/44.md)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
