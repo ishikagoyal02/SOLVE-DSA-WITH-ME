@@ -473,6 +473,9 @@ DAY 119(17 FEB)<br>
 DAY 120(18 FEB)<br>
 - [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
 
+DAY 121(27 FEB)<br>
+- [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -564,6 +567,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 8. [Set the rightmost unset bit](./BitManipulation/8.md)
 9. [Bit Difference](./BitManipulation/9.md)
 10. [Single Number](./BitManipulation/10.md)
+11. [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
 
 ## Binary Tree
 
