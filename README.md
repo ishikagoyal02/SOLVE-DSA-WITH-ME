@@ -473,13 +473,14 @@ DAY 119(17 FEB)<br>
 DAY 120(18 FEB)<br>
 - [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
 
-<<<<<<< HEAD
-DAY 121(27 FEB)<br>
-- [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
-=======
 DAY 121(19 Feb)<br>
 -[Game with String](./array/44.md)
->>>>>>> 607c1b7016317dc060d5565a03d89f98a5ca1a1b
+
+DAY 122(27 FEB)<br>
+- [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
+- [Diameter of Binary Tree](./Binary%20Tree/7.md) (LEETCODE MEDIUM)
+
+
 
 
 
