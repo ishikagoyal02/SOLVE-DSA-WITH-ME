@@ -480,6 +480,9 @@ DAY 122(27 FEB)<br>
 - [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
 - [Diameter of Binary Tree](./Binary%20Tree/7.md) (LEETCODE MEDIUM)
 
+DAY 123(28 FEB)<br>
+- [Check String is divisble by 8](./String/Check%20String%20is%20divisible%20by%208.md) (GFG EASY)
+
 
 
 
@@ -704,6 +707,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 27. [First Unique Character in a String](./String/24.md) (LEETCODE EASY)
 
+28. [Check String is divisble by 8](./String/Check%20String%20is%20divisible%20by%208.md) (GFG EASY)
+
 
 
 ## Heap
@@ -796,7 +801,10 @@ Feel free to explore the repository and review the solutions to each POTD questi
 7. [Insertion Sort for Singly Linked List](./Linked%20List/6.md) (GFG MEDIUM)
 8. [Decimal Equivalent of Binary Linked List](./Linked%20List/7.md) (GFG EASY)
 9. [Sorted insert for circular linked list](./Linked%20List/8.md) (GFG EASY)
-
+10. [Palindrome or not](./Linked%20List/Palindrome_or_not.md)
+11. [Remove Nth Node from End](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List.md)
+12. [Delete Middle Node](./Linked%20List/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.md)
+13. [Sort List](./Linked%20List/Sort%20List.md)
 
 ## Binary Search Tree
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
