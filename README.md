@@ -482,6 +482,7 @@ DAY 122(27 FEB)<br>
 
 DAY 123(28 FEB)<br>
 - [Check String is divisble by 8](./String/Check%20String%20is%20divisible%20by%208.md) (GFG EASY)
+- [Find Bottom Left of tree](./Binary%20Tree/Find%20Bottom%20Left.md) (LEETCODE MEDIUM)
 
 
 
@@ -603,6 +604,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 21. [Count the nodes at distance K from leaf](./Binary%20Tree/23.md) (GFG MEDIUM)
 22. [Min between 2 given nodes](./Binary%20Tree/24.md) (GFG MEDIUM)
 23. [Check for Children Sum Property in a Binary Tree](./Binary%20Tree/25.md) (GFG MEDIUM)
+24. [Find Bottom Left of tree](./Binary%20Tree/Find%20Bottom%20Left.md) (LEETCODE MEDIUM)
 
 
 ## Sliding Window
