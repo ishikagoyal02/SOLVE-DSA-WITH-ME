@@ -486,6 +486,7 @@ DAY 123(28 FEB)<br>
 
 DAY 124(29 FEB)<br>
 - [Even Odd Tree](./Binary%20Tree/Even%20Odd%20Tree.md) (LEETCODE MEDIUM)
+- [Sum of bit difference](./BitManipulation/Sum%20of%20bit%20difference.md) (GFG MEDIUM)
 
 
 
@@ -580,6 +581,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 9. [Bit Difference](./BitManipulation/9.md)
 10. [Single Number](./BitManipulation/10.md)
 11. [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
+12. [Sum of bit difference](./BitManipulation/Sum%20of%20bit%20difference.md) (GFG MEDIUM)
 
 ## Binary Tree
 
