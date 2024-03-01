@@ -821,6 +821,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 11. [Remove Nth Node from End](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List.md)
 12. [Delete Middle Node](./Linked%20List/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.md)
 13. [Sort List](./Linked%20List/Sort%20List.md)
+14. [Sort LL having 0,1 and 2](./Linked%20List/Sort%200,1,2.md) 
 
 ## Binary Search Tree
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
