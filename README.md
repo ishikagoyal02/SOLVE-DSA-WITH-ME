@@ -804,6 +804,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 3. [Binary Tree to CDLL](./Medium/28.md) (GFG MEDIUM)
 4. [Reverse Doubly Linked List](./Linked%20List/3.md) (GFG EASY)
 5. [Intersection of two sorted Linked Lists](./Linked%20List/4.md) (GFG EASY)
+
+   [Merge 2 sorted list](./Linked%20List/Merge%202%20sorted%20list.md) 
 6. [Merge 2 sorted linked list in reverse order](./Linked%20List/5.md)
 7. [Insertion Sort for Singly Linked List](./Linked%20List/6.md) (GFG MEDIUM)
 8. [Decimal Equivalent of Binary Linked List](./Linked%20List/7.md) (GFG EASY)
