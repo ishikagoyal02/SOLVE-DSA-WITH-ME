@@ -1,4 +1,4 @@
-<h1><a href="https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1" target="_blank">Sort LL having  0, 1 and 2</a></h1>
+<h1><a href="https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1" target="_blank">Given a linked list of 0s, 1s and 2s, sort it</a></h1>
 
 ```cpp
 void insertinto(Node* &tail,Node* p)
