@@ -488,6 +488,9 @@ DAY 124(29 FEB)<br>
 - [Even Odd Tree](./Binary%20Tree/Even%20Odd%20Tree.md) (LEETCODE MEDIUM)
 - [Sum of bit difference](./BitManipulation/Sum%20of%20bit%20difference.md) (GFG MEDIUM)
 
+DAY 125(1 MARCH)<br>
+- [Maximum Odd Binary Number](./String/Max%20Odd%20binary%20Number.md) (LEETCODE EASY)
+
 
 
 
@@ -715,6 +718,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 27. [First Unique Character in a String](./String/24.md) (LEETCODE EASY)
 
 28. [Check String is divisble by 8](./String/Check%20String%20is%20divisible%20by%208.md) (GFG EASY)
+
+29. [Max Odd Binary Number](./String/Max%20Odd%20binary%20Number.md) (LEETCODE EASY)
 
 
 
