@@ -823,6 +823,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 13. [Sort List](./Linked%20List/Sort%20List.md)
 14. [Sort LL having 0,1 and 2](./Linked%20List/Sort%200,1,2.md) 
 15. [Remove Duplicate from DLL](./Linked%20List/Remove%20Duplicate%20in%20DLL.md)
+16. [Add 1 number](./Linked%20List/Add%201%20number.md)
 
 ## Binary Search Tree
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
