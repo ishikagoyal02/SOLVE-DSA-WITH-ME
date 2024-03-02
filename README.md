@@ -825,6 +825,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 15. [Remove Duplicate from DLL](./Linked%20List/Remove%20Duplicate%20in%20DLL.md)
 16. [Add 1 number](./Linked%20List/Add%201%20number.md)
 17. [Add 2 Linked List](./Linked%20List/Add%202%20ll.md)
+18. [Find Pair of sum in DLL](./Linked%20List/Find%20Pair%20of%20sum%20in%20DLL.md)
 
 ## Binary Search Tree
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
