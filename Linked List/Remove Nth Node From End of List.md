@@ -1,6 +1,11 @@
 <h1><a href="https://leetcode.com/problems/remove-nth-node-from-end-of-list/" target="_blank">Remove Nth Node From End of List</a></h1>
 
 ```cpp
+
+
+// TO FIND THE NODE JUST BEFORE THE TARGET NODE, THERE IS 2 WAYS:
+//    1. TOTAL LENGTH - GIVEN N 
+//    2. PLACE THE FAST THAT NTH PLACE FROM STARTING THEN TRAVSERE SLOW, FAST 1 STEP, WHEN FAST IS AT NULL, SLOW IS THAT NODE
 ListNode* removeNthFromEnd(ListNode* head, int n) {
     int size = 0;
     ListNode* node = head;
@@ -21,6 +26,8 @@ ListNode* removeNthFromEnd(ListNode* head, int n) {
     for (int i = 0; i < position - 1; i++) {
         node = node->next;
     }
+
+
 
     // If the node to remove is the head node
     if (position == 0) {
