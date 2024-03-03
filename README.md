@@ -492,6 +492,9 @@ DAY 125(1 MARCH)<br>
 - [Maximum Odd Binary Number](./String/Max%20Odd%20binary%20Number.md) (LEETCODE EASY)
 - [Peak Element](./array/PeakElement.md) (GFE MEDIUM)
 
+DAY 126(3 MARCH)<br>
+- [LargeSt Number formed by array](./array/Largest%20Number%20formed%20from%20array.md) (GFG MEDIUM)
+
 
 
 
@@ -544,6 +547,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   42. [Rearrange Array Elements by Sign](./array/41.md) (LEETCODE MEDIUM)
   43. [Find the Polgon with largest perimeter](./array/43.md) (LEETCODE MEDIUM)
   44. [Peak Element](./array/PeakElement.md) (GFE MEDIUM)
+  45. [LargeSt Number formed by array](./array/Largest%20Number%20formed%20from%20array.md) (GFG MEDIUM)
 
 
 
