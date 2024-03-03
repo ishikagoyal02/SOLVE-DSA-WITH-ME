@@ -494,6 +494,7 @@ DAY 125(1 MARCH)<br>
 
 DAY 126(3 MARCH)<br>
 - [LargeSt Number formed by array](./array/Largest%20Number%20formed%20from%20array.md) (GFG MEDIUM)
+- [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List.md) (LEETCODE MEDIUM)
 
 
 
