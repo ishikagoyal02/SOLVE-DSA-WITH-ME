@@ -827,6 +827,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 12. [Delete Middle Node](./Linked%20List/Delete%20the%20Middle%20Node%20of%20a%20Linked%20List.md)
 13. [Sort List](./Linked%20List/Sort%20List.md)
 14. [Sort LL having 0,1 and 2](./Linked%20List/Sort%200,1,2.md) 
+    [Intersection of Two Linked Lists]()
 15. [Remove Duplicate from DLL](./Linked%20List/Remove%20Duplicate%20in%20DLL.md)
 16. [Add 1 number](./Linked%20List/Add%201%20number.md)
 17. [Add 2 Linked List](./Linked%20List/Add%202%20ll.md)
