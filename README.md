@@ -496,6 +496,9 @@ DAY 126(3 MARCH)<br>
 - [LargeSt Number formed by array](./array/Largest%20Number%20formed%20from%20array.md) (GFG MEDIUM)
 - [Remove Nth Node From End of List](./Linked%20List/Remove%20Nth%20Node%20From%20End%20of%20List.md) (LEETCODE MEDIUM)
 
+DAY 127(5 MARCH)<br>
+- [Minimum Length of string after deleting similar ends](./String/Minimum%20Length%20of%20string%20after%20deleting%20similar%20ends.md) (LEETCODE MEDIUM)
+
 
 
 
@@ -727,6 +730,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 28. [Check String is divisble by 8](./String/Check%20String%20is%20divisible%20by%208.md) (GFG EASY)
 
 29. [Max Odd Binary Number](./String/Max%20Odd%20binary%20Number.md) (LEETCODE EASY)
+
+30. [Minimum Length of string after deleting similar ends](./String/Minimum%20Length%20of%20string%20after%20deleting%20similar%20ends.md) (LEETCODE MEDIUM)
 
 
 
