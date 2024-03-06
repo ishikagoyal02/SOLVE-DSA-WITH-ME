@@ -498,6 +498,10 @@ DAY 126(3 MARCH)<br>
 
 DAY 127(5 MARCH)<br>
 - [Minimum Length of string after deleting similar ends](./String/Minimum%20Length%20of%20string%20after%20deleting%20similar%20ends.md) (LEETCODE MEDIUM)
+- [Maximum Index](./array/Maximum%20Index.md) (GFG MEDIUM)
+
+DAY 128(6 MARCH)<br>
+- [Detect cycle in LL] (LEETCODE EASY)
 
 
 
