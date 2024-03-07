@@ -503,6 +503,9 @@ DAY 127(5 MARCH)<br>
 DAY 128(6 MARCH)<br>
 - [Detect cycle in LL] (LEETCODE EASY)
 
+DAY 129(7 MARCH)<br>
+- [Check if frequencies can be equal](./String/Chexk%20if%20freq%20can%20be%20equal.md) (GFG MEDIUM)
+
 
 
 
