@@ -506,6 +506,9 @@ DAY 128(6 MARCH)<br>
 DAY 129(7 MARCH)<br>
 - [Check if frequencies can be equal](./String/Chexk%20if%20freq%20can%20be%20equal.md) (GFG MEDIUM)
 
+DAY 130(9 MARCH)<br>
+- [Minimum Common Value](./array/Minimum%20Common%20Value.md)
+
 
 
 
@@ -559,6 +562,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   43. [Find the Polgon with largest perimeter](./array/43.md) (LEETCODE MEDIUM)
   44. [Peak Element](./array/PeakElement.md) (GFE MEDIUM)
   45. [LargeSt Number formed by array](./array/Largest%20Number%20formed%20from%20array.md) (GFG MEDIUM)
+  46. [Minimum Common Value](./array/Minimum%20Common%20Value.md)
 
 
 
