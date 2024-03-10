@@ -509,6 +509,9 @@ DAY 129(7 MARCH)<br>
 DAY 130(9 MARCH)<br>
 - [Minimum Common Value](./array/Minimum%20Common%20Value.md)
 
+DAY 131(10 MARCH)<br>
+- [Remove all duplicates from a given string](./String/Remove%20all%20duplicates%20from%20a%20given%20string.md)  (GFG EASY)
+
 
 
 
@@ -743,6 +746,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 29. [Max Odd Binary Number](./String/Max%20Odd%20binary%20Number.md) (LEETCODE EASY)
 
 30. [Minimum Length of string after deleting similar ends](./String/Minimum%20Length%20of%20string%20after%20deleting%20similar%20ends.md) (LEETCODE MEDIUM)
+
+31. [Remove all duplicates from a given string](./String/Remove%20all%20duplicates%20from%20a%20given%20string.md)  (GFG EASY)
 
 
 
