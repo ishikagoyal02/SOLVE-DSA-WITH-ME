@@ -511,6 +511,7 @@ DAY 130(9 MARCH)<br>
 
 DAY 131(10 MARCH)<br>
 - [Remove all duplicates from a given string](./String/Remove%20all%20duplicates%20from%20a%20given%20string.md)  (GFG EASY)
+- [Intersection of two array](./array/Intersection%20of%20two%20array.md) (LEETCODE EASY)
 
 
 
@@ -566,6 +567,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   44. [Peak Element](./array/PeakElement.md) (GFE MEDIUM)
   45. [LargeSt Number formed by array](./array/Largest%20Number%20formed%20from%20array.md) (GFG MEDIUM)
   46. [Minimum Common Value](./array/Minimum%20Common%20Value.md)
+  47. [Intersection of two array](./array/Intersection%20of%20two%20array.md) (LEETCODE EASY)
 
 
 
