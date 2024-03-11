@@ -513,6 +513,9 @@ DAY 131(10 MARCH)<br>
 - [Remove all duplicates from a given string](./String/Remove%20all%20duplicates%20from%20a%20given%20string.md)  (GFG EASY)
 - [Intersection of two array](./array/Intersection%20of%20two%20array.md) (LEETCODE EASY)
 
+DAY 132(11 MARCH)<br>
+- [Custom Sort String](./String/Custom%20Sort%20String.md) (LEETCODE MEDIUM)
+
 
 
 
@@ -750,6 +753,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 30. [Minimum Length of string after deleting similar ends](./String/Minimum%20Length%20of%20string%20after%20deleting%20similar%20ends.md) (LEETCODE MEDIUM)
 
 31. [Remove all duplicates from a given string](./String/Remove%20all%20duplicates%20from%20a%20given%20string.md)  (GFG EASY)
+
+32. [Custom Sort String](./String/Custom%20Sort%20String.md) (LEETCODE MEDIUM)
 
 
 
