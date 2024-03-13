@@ -518,6 +518,7 @@ DAY 132(11 MARCH)<br>
 
 DAY 133(13 MARCH)<br>
 - [Find The Pivot Integer](./Easy/Find%20the%20Pivot%20Integer.md)  (LEETCODE EASY)
+- [Print matrix in diagonal pattern](./array/Print%20matrix%20in%20diagonal%20Pattern.md) (GFG EASY)
 
 
 
