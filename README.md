@@ -516,6 +516,9 @@ DAY 131(10 MARCH)<br>
 DAY 132(11 MARCH)<br>
 - [Custom Sort String](./String/Custom%20Sort%20String.md) (LEETCODE MEDIUM)
 
+DAY 133(13 MARCH)<br>
+- [Find The Pivot Integer](./Easy/Find%20the%20Pivot%20Integer.md)  (LEETCODE EASY)
+
 
 
 
