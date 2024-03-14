@@ -520,6 +520,9 @@ DAY 133(13 MARCH)<br>
 - [Find The Pivot Integer](./Easy/Find%20the%20Pivot%20Integer.md)  (LEETCODE EASY)
 - [Print matrix in diagonal pattern](./array/Print%20matrix%20in%20diagonal%20Pattern.md) (GFG EASY)
 
+DAY 134(14 MARCH)<br>
+- [Binary Subarrays With Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/7.md)
+
 
 
 
