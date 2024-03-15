@@ -523,6 +523,10 @@ DAY 133(13 MARCH)<br>
 DAY 134(14 MARCH)<br>
 - [Binary Subarrays With Sum](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Sliding%20Window/7.md)
 
+DAY 135(15 MARCH)<br>
+- [Product of array except self](./array/Product%20of%20array%20except%20self.md) (LEETCODE MEDIUM)
+
+
 
 
 
@@ -578,6 +582,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   45. [LargeSt Number formed by array](./array/Largest%20Number%20formed%20from%20array.md) (GFG MEDIUM)
   46. [Minimum Common Value](./array/Minimum%20Common%20Value.md)
   47. [Intersection of two array](./array/Intersection%20of%20two%20array.md) (LEETCODE EASY)
+  48. [Product of array except self](./array/Product%20of%20array%20except%20self.md) (LEETCODE MEDIUM)
 
 
 
