@@ -526,6 +526,8 @@ DAY 134(14 MARCH)<br>
 DAY 135(15 MARCH)<br>
 - [Product of array except self](./array/Product%20of%20array%20except%20self.md) (LEETCODE MEDIUM)
 
+DAY 136(20 MARCH)<br>
+- [Merge In Between Linked List](./Linked%20List/Merge%20In%20between%20Linked%20List.md) (LEETCODE MEDIUM)
 
 
 
@@ -874,6 +876,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 18. [Find Pair of sum in DLL](./Linked%20List/Find%20Pair%20of%20sum%20in%20DLL.md)
 19. [Delete all occurence of given node](./Linked%20List/Delete%20occurence%20of%20given%20node.md)
 20. [Rotate List](./Linked%20List/Rotate%20List.md)
+21. [Merge In Between Linked List](./Linked%20List/Merge%20In%20between%20Linked%20List.md) (LEETCODE MEDIUM)
 
 ## Binary Search Tree
 1. [Search in Binary Search Tree](./Binary%20Search%20Tree/1.md)
