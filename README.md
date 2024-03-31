@@ -529,6 +529,9 @@ DAY 135(15 MARCH)<br>
 DAY 136(20 MARCH)<br>
 - [Merge In Between Linked List](./Linked%20List/Merge%20In%20between%20Linked%20List.md) (LEETCODE MEDIUM)
 
+DAY 137(31 MARCH)<br>
+- [Minimum Element in BST](./Binary%20Search%20Tree/Minimum%20element%20in%20bst.md) (GFG BASIC)
+
 
 
 
@@ -891,6 +894,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 10. [Lowest Common Ancestor of a BST](./Binary%20Search%20Tree/10.md)
 11. [Flaten BST](./array/12.md) (GFG MEDIUM)
 12. [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
+13. [Minimum Element in BST](./Binary%20Search%20Tree/Minimum%20element%20in%20bst.md) (GFG BASIC)
 
 ## Graph
 1. [BFT](./Graph/1.md)
