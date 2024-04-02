@@ -534,7 +534,7 @@ DAY 137(31 MARCH)<br>
 
 DAY 138(2 APRIL)<br>
 - [Minimum Absolute Difference in BST](./Binary%20Search%20Tree/Minimum%20Absolute%20Difference%20in%20BST.md)  (GFG MEDIUM)
-
+- [Isomorphic Strings](./String/Isomorphic%20Strings.md) (LEETCODE EASY)
 
 
 
@@ -775,6 +775,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 31. [Remove all duplicates from a given string](./String/Remove%20all%20duplicates%20from%20a%20given%20string.md)  (GFG EASY)
 
 32. [Custom Sort String](./String/Custom%20Sort%20String.md) (LEETCODE MEDIUM)
+
+33. [Isomorphic Strings](./String/Isomorphic%20Strings.md) (LEETCODE EASY)
 
 
 
