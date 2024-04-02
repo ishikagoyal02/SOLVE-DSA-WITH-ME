@@ -532,6 +532,9 @@ DAY 136(20 MARCH)<br>
 DAY 137(31 MARCH)<br>
 - [Minimum Element in BST](./Binary%20Search%20Tree/Minimum%20element%20in%20bst.md) (GFG BASIC)
 
+DAY 138(2 APRIL)<br>
+- [Minimum Absolute Difference in BST](./Binary%20Search%20Tree/Minimum%20Absolute%20Difference%20in%20BST.md)  (GFG MEDIUM)
+
 
 
 
@@ -895,6 +898,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 11. [Flaten BST](./array/12.md) (GFG MEDIUM)
 12. [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
 13. [Minimum Element in BST](./Binary%20Search%20Tree/Minimum%20element%20in%20bst.md) (GFG BASIC)
+14. [Minimum Absolute Difference in BST](./Binary%20Search%20Tree/Minimum%20Absolute%20Difference%20in%20BST.md)  (GFG MEDIUM)
 
 ## Graph
 1. [BFT](./Graph/1.md)
