@@ -538,6 +538,7 @@ DAY 138(2 APRIL)<br>
 
 DAY 139(3 APRIL)<br>
 - [Kth common ancestor in BST](./Binary%20Search%20Tree/Kth%20common%20ancestor%20in%20BST.md) (GFG MEDIIUM)
+- [Word Search](./Graph/Word%20Search.md) (LEETCODE MEDIUM)
 
 
 
@@ -928,6 +929,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 18. [Shortest Prime Path](./Graph/19.md) (GFG MEDIUM)
 19. [Dijsktra](./Graph/20.md)
 20. [Clone undirected graph](./Graph/21.md) (GFG MEDIUM)
+21. [Word Search](./Graph/Word%20Search.md) (LEETCODE MEDIUM)
 
 
 ## Contributing
