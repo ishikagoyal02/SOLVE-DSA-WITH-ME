@@ -536,6 +536,9 @@ DAY 138(2 APRIL)<br>
 - [Minimum Absolute Difference in BST](./Binary%20Search%20Tree/Minimum%20Absolute%20Difference%20in%20BST.md)  (GFG MEDIUM)
 - [Isomorphic Strings](./String/Isomorphic%20Strings.md) (LEETCODE EASY)
 
+DAY 139(3 APRIL)<br>
+- [Kth common ancestor in BST](./Binary%20Search%20Tree/Kth%20common%20ancestor%20in%20BST.md) (GFG MEDIIUM)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -901,6 +904,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 12. [Sum of leaf nodes in BST](./Binary%20Search%20Tree/13.md) (GFG MEDIUM)
 13. [Minimum Element in BST](./Binary%20Search%20Tree/Minimum%20element%20in%20bst.md) (GFG BASIC)
 14. [Minimum Absolute Difference in BST](./Binary%20Search%20Tree/Minimum%20Absolute%20Difference%20in%20BST.md)  (GFG MEDIUM)
+15. [Kth common ancestor in BST](./Binary%20Search%20Tree/Kth%20common%20ancestor%20in%20BST.md) (GFG MEDIIUM)
+16. [Pairs violating the BST property](./Binary%20Search%20Tree/Pairs%20violating%20the%20BST%20property.md) (GFG MEDIUM)
 
 ## Graph
 1. [BFT](./Graph/1.md)
