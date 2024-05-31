@@ -540,6 +540,9 @@ DAY 139(3 APRIL)<br>
 - [Kth common ancestor in BST](./Binary%20Search%20Tree/Kth%20common%20ancestor%20in%20BST.md) (GFG MEDIIUM)
 - [Word Search](./Graph/Word%20Search.md) (LEETCODE MEDIUM)
 
+DAY 140(31 MAY)<br>
+- [Swap two nibbles in a byte](./BitManipulation/Swap%20two%20nibbles%20in%20a%20byte.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -638,6 +641,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 10. [Single Number](./BitManipulation/10.md)
 11. [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
 12. [Sum of bit difference](./BitManipulation/Sum%20of%20bit%20difference.md) (GFG MEDIUM)
+13. [Swap two nibbles in a byte](./BitManipulation/Swap%20two%20nibbles%20in%20a%20byte.md) (GFG EASY)
 
 ## Binary Tree
 
