@@ -543,6 +543,9 @@ DAY 139(3 APRIL)<br>
 DAY 140(31 MAY)<br>
 - [Swap two nibbles in a byte](./BitManipulation/Swap%20two%20nibbles%20in%20a%20byte.md) (GFG EASY)
 
+DAY 141(1 JUNE)<br>
+- [Odd Even Problem](./String/Odd%20Even%20Problem.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -642,6 +645,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 11. [Play with OR](./BitManipulation/Play%20with%20OR.md) (GFG EASY)
 12. [Sum of bit difference](./BitManipulation/Sum%20of%20bit%20difference.md) (GFG MEDIUM)
 13. [Swap two nibbles in a byte](./BitManipulation/Swap%20two%20nibbles%20in%20a%20byte.md) (GFG EASY)
+14. [Single Number 3](./BitManipulation/Single%20Number.md) (LEETCODE EASY)
 
 ## Binary Tree
 
@@ -785,6 +789,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 32. [Custom Sort String](./String/Custom%20Sort%20String.md) (LEETCODE MEDIUM)
 
 33. [Isomorphic Strings](./String/Isomorphic%20Strings.md) (LEETCODE EASY)
+
+34. [Odd Even Problem](./String/Odd%20Even%20Problem.md) (GFG EASY)
 
 
 
