@@ -792,6 +792,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 34. [Odd Even Problem](./String/Odd%20Even%20Problem.md) (GFG EASY)
 
+35. [Append Characters to String to Make Subsequence](./String/Append Characters to String to Make Subsequence.md) (LEETCODE MEDIUM)
+
 
 
 ## Heap
