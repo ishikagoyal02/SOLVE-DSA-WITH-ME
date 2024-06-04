@@ -549,6 +549,7 @@ DAY 141(1 JUNE)<br>
 DAY 142(4 JUNE)<br>
 - [Binary representation of next number](./BitManipulation/Binary%20representation%20of%20next%20number.md) (GFG EASY)
 
+- [Longest Palindrome](./String/Longest%20Palindrome.md) (LEETCODE EASY)
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -799,6 +800,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 35. [Append Characters to String to Make Subsequence](./String/Append%20Characters%20to%20String%20to%20Make%20Subsequence.md) (LEETCODE MEDIUM)
 
 36. [Binary representation of next number](./BitManipulation/Binary%20representation%20of%20next%20number.md) (GFG EASY)
+
+37. [Longest Palindrome](./String/Longest%20Palindrome.md) (LEETCODE EASY)
 
 ## Heap
 
