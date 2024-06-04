@@ -546,6 +546,9 @@ DAY 140(31 MAY)<br>
 DAY 141(1 JUNE)<br>
 - [Odd Even Problem](./String/Odd%20Even%20Problem.md) (GFG EASY)
 
+DAY 142(4 JUNE)<br>
+- [Binary representation of next number](./BitManipulation/Binary%20representation%20of%20next%20number.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -646,6 +649,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 12. [Sum of bit difference](./BitManipulation/Sum%20of%20bit%20difference.md) (GFG MEDIUM)
 13. [Swap two nibbles in a byte](./BitManipulation/Swap%20two%20nibbles%20in%20a%20byte.md) (GFG EASY)
 14. [Single Number 3](./BitManipulation/Single%20Number.md) (LEETCODE EASY)
+15. [Binary representation of next number](./BitManipulation/Binary%20representation%20of%20next%20number.md) (GFG EASY)
 
 ## Binary Tree
 
@@ -792,9 +796,9 @@ Feel free to explore the repository and review the solutions to each POTD questi
 
 34. [Odd Even Problem](./String/Odd%20Even%20Problem.md) (GFG EASY)
 
-35. [Append Characters to String to Make Subsequence](./String/Append Characters to String to Make Subsequence.md) (LEETCODE MEDIUM)
+35. [Append Characters to String to Make Subsequence](./String/Append%20Characters%20to%20String%20to%20Make%20Subsequence.md) (LEETCODE MEDIUM)
 
-
+36. [Binary representation of next number](./BitManipulation/Binary%20representation%20of%20next%20number.md) (GFG EASY)
 
 ## Heap
 
