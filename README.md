@@ -554,6 +554,8 @@ DAY 142(4 JUNE)<br>
 DAY 143(5 JUNE)<br>
 - [Swapping pairs make summ equal](./array/Swapping%20pairs%20make%20sum%20equal.md) (GFG MEDIUM)
 
+- [Find Common Characters](./array/Find%20Common%20Characters.md) (LEETCODE EASY)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -609,6 +611,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   47. [Intersection of two array](./array/Intersection%20of%20two%20array.md) (LEETCODE EASY)
   48. [Product of array except self](./array/Product%20of%20array%20except%20self.md) (LEETCODE MEDIUM)
   49. [Swapping pairs make summ equal](./array/Swapping%20pairs%20make%20sum%20equal.md) (GFG MEDIUM)
+  50. [Find Common Characters](./array/Find%20Common%20Characters.md) (LEETCODE EASY)
 
 
 
