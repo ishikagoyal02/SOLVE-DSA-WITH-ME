@@ -551,6 +551,9 @@ DAY 142(4 JUNE)<br>
 
 - [Longest Palindrome](./String/Longest%20Palindrome.md) (LEETCODE EASY)
 
+DAY 143(5 JUNE)<br>
+- [Swapping pairs make summ equal](./array/Swapping%20pairs%20make%20sum%20equal.md) (GFG MEDIUM)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -605,6 +608,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   46. [Minimum Common Value](./array/Minimum%20Common%20Value.md)
   47. [Intersection of two array](./array/Intersection%20of%20two%20array.md) (LEETCODE EASY)
   48. [Product of array except self](./array/Product%20of%20array%20except%20self.md) (LEETCODE MEDIUM)
+  49. [Swapping pairs make summ equal](./array/Swapping%20pairs%20make%20sum%20equal.md) (GFG MEDIUM)
 
 
 
