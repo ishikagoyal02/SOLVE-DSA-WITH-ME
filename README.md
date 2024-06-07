@@ -556,6 +556,9 @@ DAY 143(5 JUNE)<br>
 
 - [Find Common Characters](./array/Find%20Common%20Characters.md) (LEETCODE EASY)
 
+DAY 144(7 JUNE)<br>
+- [Maximum Common Integer](./array/Maximum%20Common%20integer.md) (GFG MEDIUM)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -612,6 +615,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   48. [Product of array except self](./array/Product%20of%20array%20except%20self.md) (LEETCODE MEDIUM)
   49. [Swapping pairs make summ equal](./array/Swapping%20pairs%20make%20sum%20equal.md) (GFG MEDIUM)
   50. [Find Common Characters](./array/Find%20Common%20Characters.md) (LEETCODE EASY)
+  51. [Maximum Common Integer](./array/Maximum%20Common%20integer.md) (GFG MEDIUM)
 
 
 
