@@ -559,6 +559,9 @@ DAY 143(5 JUNE)<br>
 DAY 144(7 JUNE)<br>
 - [Maximum Common Integer](./array/Maximum%20Common%20integer.md) (GFG MEDIUM)
 
+DAY 145(8 JUNE)<br>
+- [Continuous Subarray Sum](./array/Continuous%20Subarray%20Sum.md) (LEETCODE MEDUM)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -616,6 +619,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   49. [Swapping pairs make summ equal](./array/Swapping%20pairs%20make%20sum%20equal.md) (GFG MEDIUM)
   50. [Find Common Characters](./array/Find%20Common%20Characters.md) (LEETCODE EASY)
   51. [Maximum Common Integer](./array/Maximum%20Common%20integer.md) (GFG MEDIUM)
+  52. [Continuous Subarray Sum](./array/Continuous%20Subarray%20Sum.md) (LEETCODE MEDUM)
 
 
 
