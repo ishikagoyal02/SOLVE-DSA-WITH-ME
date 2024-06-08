@@ -29,5 +29,25 @@
 
 ```cpp
 
+ vector<int> constructList(int q, vector<vector<int>> &queries) {
+        // code here
+        
+        int XOR=0;
+        vector<int>ans;
+        
+        for(int i=q-1;i>=0;i--)
+        {
+            if(queries[i][0]==0)
+                ans.push_back(XOR^queries[i][1]);
+            else
+                XOR = XOR^queries[i][1];
+        }
+        
+        ans.push_back(XOR);             // 0^ (all queries[i][1])
+            
+        sort(ans.begin(),ans.end());
+            
+        return ans;
+    }
 
 ```

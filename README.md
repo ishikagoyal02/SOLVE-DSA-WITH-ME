@@ -666,6 +666,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
 13. [Swap two nibbles in a byte](./BitManipulation/Swap%20two%20nibbles%20in%20a%20byte.md) (GFG EASY)
 14. [Single Number 3](./BitManipulation/Single%20Number.md) (LEETCODE EASY)
 15. [Binary representation of next number](./BitManipulation/Binary%20representation%20of%20next%20number.md) (GFG EASY)
+16. [Construct list using given q XOR queries](./BitManipulation/Construct%20list%20using%20given%20q%20XOR%20queries.md) (GFG MEDIUM)
 
 ## Binary Tree
 
