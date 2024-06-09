@@ -562,6 +562,9 @@ DAY 144(7 JUNE)<br>
 DAY 145(8 JUNE)<br>
 - [Continuous Subarray Sum](./array/Continuous%20Subarray%20Sum.md) (LEETCODE MEDUM)
 
+DAY 146(9 JUNE)<br>
+- [Subarray Sums Divisible by K](./array/Subarray%20Sums%20Divisible%20by%20K.md) (LEETCODE MEDIUM)
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -620,6 +623,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   50. [Find Common Characters](./array/Find%20Common%20Characters.md) (LEETCODE EASY)
   51. [Maximum Common Integer](./array/Maximum%20Common%20integer.md) (GFG MEDIUM)
   52. [Continuous Subarray Sum](./array/Continuous%20Subarray%20Sum.md) (LEETCODE MEDUM)
+  53. [Subarray Sums Divisible by K](./array/Subarray%20Sums%20Divisible%20by%20K.md) (LEETCODE MEDIUM)
 
 
 
