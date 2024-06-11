@@ -570,6 +570,10 @@ DAY 147(10 JUNE)<br>
 - [Height Checker](./array/Height%20Checker.md) (LEETCODE EASY)
 - [Nuts and Bolts Problem](./array/Nuts%20and%20Bolts%20Problem.md) (GFG MEDIUM)
 
+DAY 148(11 JUNE)<br>
+- [Relative Sort Array](./array/Relative%20Sort%20Array.md) (LEEYCODE EASY)
+
+
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
 
@@ -632,6 +636,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
   54. [Convert array into Zig-Zag fashion](./array/Convert%20array%20into%20Zig-Zag%20fashion.md) (GFG EASY)
   55. [Height Checker](./array/Height%20Checker.md) (LEETCODE EASY)
   56. [Nuts and Bolts Problem](./array/Nuts%20and%20Bolts%20Problem.md) (GFG MEDIUM)
+  57. [Relative Sort Array](./array/Relative%20Sort%20Array.md) (LEEYCODE EASY)
 
 
 
