@@ -573,6 +573,9 @@ DAY 147(10 JUNE)<br>
 DAY 148(11 JUNE)<br>
 - [Relative Sort Array](./array/Relative%20Sort%20Array.md) (LEEYCODE EASY)
 
+DAY 149(12 JUNE)<br>
+- [Padovan Sequence](./Dynamic%20Programming/Padovan%20Sequence.md) (GFG EASY)
+
 
 
 Feel free to explore the repository and review the solutions to each POTD question. If you have any questions or suggestions, don't hesitate to reach out. Happy coding!
@@ -909,6 +912,8 @@ Feel free to explore the repository and review the solutions to each POTD questi
 10. [Longest Common Subsequence of 3 string](./Dynamic%20Programming/14.md) (GFG MEDIUM)
 
 11. [Plaindrome Substring](./Dynamic%20Programming/15.md) 
+
+12. [Padovan Sequence](./Dynamic%20Programming/Padovan%20Sequence.md) (GFG EASY)
 
 ## Binary Search
 1. [First and Last Occurrence of X](https://github.com/ishikagoyal02/SOLVE-DSA-WITH-ME/blob/main/Medium/19.md)
