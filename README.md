@@ -575,6 +575,7 @@ DAY 148(11 JUNE)<br>
 
 DAY 149(12 JUNE)<br>
 - [Padovan Sequence](./Dynamic%20Programming/Padovan%20Sequence.md) (GFG EASY)
+- [Minimum Number of Moves to Seat Everyone](./array/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.md) (LEETCODE MEDIUM)
 
 
 
