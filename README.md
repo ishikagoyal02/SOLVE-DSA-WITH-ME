@@ -573,9 +573,12 @@ DAY 147(10 JUNE)<br>
 DAY 148(11 JUNE)<br>
 - [Relative Sort Array](./array/Relative%20Sort%20Array.md) (LEEYCODE EASY)
 
-DAY 149(12 JUNE)<br>
+DAY 149(13 JUNE)<br>
 - [Padovan Sequence](./Dynamic%20Programming/Padovan%20Sequence.md) (GFG EASY)
 - [Minimum Number of Moves to Seat Everyone](./array/Minimum%20Number%20of%20Moves%20to%20Seat%20Everyone.md) (LEETCODE MEDIUM)
+
+DAY 150(14 JUNE)<br>
+- [Armstrong Number](./Recursion/Armstrong%20Numbers.md) (GFG EASY)
 
 
 
@@ -669,6 +672,7 @@ Feel free to explore the repository and review the solutions to each POTD questi
    21. [Minimum Operation](./Recursion/20.md)
    22. [Print Pattern](./Recursion/21.md) (GFG EASY)
    23. [Implement Atoi](./Recursion/22.md) (GFG MEDIUM)
+   24. [Armstrong Number](./Recursion/Armstrong%20Numbers.md) (GFG EASY)
   
 ## Bit Manipulation
 
