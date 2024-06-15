@@ -579,6 +579,7 @@ DAY 149(13 JUNE)<br>
 
 DAY 150(14 JUNE)<br>
 - [Armstrong Number](./Recursion/Armstrong%20Numbers.md) (GFG EASY)
+- [Minimum Increment to Make Array Unique](./array/Minimum%20Increment%20to%20Make%20Array%20Unique.md) (LEETCODE MEDIUM)
 
 
 
