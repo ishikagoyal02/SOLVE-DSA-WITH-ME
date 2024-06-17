@@ -59,7 +59,6 @@ This repository contains a collection of DSA questions that I solve daily. Each 
 
 Here is a list of daily solved DSA questions:
 
-
 Day 1 (5 JUNE):
 - [Check If It Is a Straight Line](https://github.com/ishikagoyal02/GFG-SOLUTIONS/blob/main/Easy/1.md) (LEETCODE easy)
 
